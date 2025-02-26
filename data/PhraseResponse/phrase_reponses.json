@@ -1,0 +1,36 @@
+{
+    "positive":{
+        "lowMag":[
+            "omg look at you go!",
+            "sheeeeet look at this guy",
+            "lol you suck....oh wait",
+            "yeah that tracks"
+        ],
+        "highMag":[
+            "wow what are you the most mechanically skille player on the server?",
+            "wow! have fun having to only play in 5's now",
+            "OK we get it...",
+            "wow look who got carried",
+            "now that's getting a little carried away"
+            
+        ]
+    },   
+    "negative":{   
+        "lowMag":[
+            "lol",
+            "do better...if you can",
+            "did you flash too early?",
+            "lmao",
+            "you know what ... sucks to suck",
+            "haha",
+            "beter luck next time",
+            "yeah that tracks",
+	        "you're a walking ult orb"
+        ],
+        "highMag":[
+            "at least you can play with lovi now",
+            "hey its you...now you can play with your friends again",
+            "ya know boosting isn't really that expensive"       
+        ]
+    }
+}

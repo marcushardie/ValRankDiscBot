@@ -1,0 +1,358 @@
+{
+    "status": 200,
+    "data": {
+        "account": {
+            "name": "Boot6",
+            "tag": "OCE",
+            "puuid": "78bc6443-618c-59bd-a997-5b68293a9025"
+        },
+        "peak": {
+            "season": {
+                "id": "52ca6698-41c1-e7de-4008-8994d2221209",
+                "short": "e9a1"
+            },
+            "ranking_schema": "ascendant",
+            "tier": {
+                "id": 7,
+                "name": "Bronze 2"
+            }
+        },
+        "current": {
+            "tier": {
+                "id": 5,
+                "name": "Iron 3"
+            },
+            "rr": 59,
+            "last_change": -15,
+            "elo": 259,
+            "games_needed_for_rating": 0,
+            "leaderboard_placement": null
+        },
+        "seasonal": [
+            {
+                "season": {
+                    "id": "52ca6698-41c1-e7de-4008-8994d2221209",
+                    "short": "e9a1"
+                },
+                "wins": 24,
+                "games": 61,
+                "end_tier": {
+                    "id": 6,
+                    "name": "Bronze 1"
+                },
+                "ranking_schema": "ascendant",
+                "leaderboard_placement": null,
+                "act_wins": [
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Iron 3"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Iron 3"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Iron 3"
+                    }
+                ]
+            },
+            {
+                "season": {
+                    "id": "292f58db-4c17-89a7-b1c0-ba988f0e9d98",
+                    "short": "e9a2"
+                },
+                "wins": 17,
+                "games": 39,
+                "end_tier": {
+                    "id": 7,
+                    "name": "Bronze 2"
+                },
+                "ranking_schema": "ascendant",
+                "leaderboard_placement": null,
+                "act_wins": [
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    }
+                ]
+            },
+            {
+                "season": {
+                    "id": "dcde7346-4085-de4f-c463-2489ed47983b",
+                    "short": "e9a3"
+                },
+                "wins": 16,
+                "games": 33,
+                "end_tier": {
+                    "id": 7,
+                    "name": "Bronze 2"
+                },
+                "ranking_schema": "ascendant",
+                "leaderboard_placement": null,
+                "act_wins": [
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    }
+                ]
+            },
+            {
+                "season": {
+                    "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                    "short": "e10a1"
+                },
+                "wins": 5,
+                "games": 16,
+                "end_tier": {
+                    "id": 5,
+                    "name": "Iron 3"
+                },
+                "ranking_schema": "ascendant",
+                "leaderboard_placement": null,
+                "act_wins": [
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 6,
+                        "name": "Bronze 1"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Iron 3"
+                    },
+                    {
+                        "id": 0,
+                        "name": "Unrated"
+                    },
+                    {
+                        "id": 0,
+                        "name": "Unrated"
+                    },
+                    {
+                        "id": 0,
+                        "name": "Unrated"
+                    }
+                ]
+            }
+        ]
+    }
+}

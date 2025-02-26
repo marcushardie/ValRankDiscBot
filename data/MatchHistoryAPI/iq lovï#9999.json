@@ -1,0 +1,612 @@
+{
+    "fbbc4712-5865-40c7-a627-58fdd4a288c3": {
+        "match": {
+            "match_id": "fbbc4712-5865-40c7-a627-58fdd4a288c3",
+            "map": {
+                "id": "b529448b-4d60-346e-e89e-00a4c527a405",
+                "name": "Fracture"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1689341,
+            "started_at": "2025-01-29T10:39:25.714Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "0c15a783-f853-4a0b-a8f6-b5d58a6fad58",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d893ad24-b3f5-4284-b23e-499856c587cb",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "31321d81-2bf6-408b-acc9-8f9ee5a15079",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f93a7808-cc95-4888-9b85-ce86f273db0d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9dd40d24-5eef-48b3-8601-7431240855d0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "03f1994b-6512-463f-b9f9-9d9ad4879b4f",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "IQ Lov\u00ef#9999": {
+                "puuid": "e2764d44-ea24-5b15-a696-0a4f42547298",
+                "name": "IQ Lov\u00ef",
+                "tag": "9999",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "f93a7808-cc95-4888-9b85-ce86f273db0d",
+                "agent": {
+                    "id": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+                    "name": "Fade"
+                },
+                "stats": {
+                    "score": 2136,
+                    "kills": 8,
+                    "deaths": 13,
+                    "assists": 5,
+                    "headshots": 2,
+                    "bodyshots": 28,
+                    "legshots": 2,
+                    "damage": {
+                        "dealt": 1352,
+                        "received": 2400
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 16,
+                    "ability1": 4,
+                    "ability2": 14,
+                    "ultimate": 1
+                },
+                "tier": {
+                    "id": 10,
+                    "name": "Silver 2"
+                },
+                "customization": {
+                    "card": "e7e71e87-4ce9-6fbb-5f72-e08b59b14d57",
+                    "title": "025b0aaf-4bc6-522c-faae-a484779c5d03",
+                    "preferred_level_border": "e6238102-425c-a647-6685-e6af7f8982d9"
+                },
+                "account_level": 96,
+                "session_playtime_in_ms": 660000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 40600,
+                        "average": 2388.2354
+                    },
+                    "loadout_value": {
+                        "overall": 53650,
+                        "average": 3155.8823
+                    }
+                }
+            }
+        }
+    },
+    "77dad9bc-7618-45b7-b2d6-623faa294823": {
+        "match": {
+            "match_id": "77dad9bc-7618-45b7-b2d6-623faa294823",
+            "map": {
+                "id": "b529448b-4d60-346e-e89e-00a4c527a405",
+                "name": "Fracture"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 442193,
+            "started_at": "2025-01-29T10:29:26.769Z",
+            "is_completed": true,
+            "queue": {
+                "id": "deathmatch",
+                "name": "Deathmatch",
+                "mode_type": "Deathmatch"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "df3dcc69-0d08-4048-8219-8fe4b7b1a0f7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "6006b095-cd4a-410a-a514-6cc307778953",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "06779917-a6e7-4817-aae6-a40556fd3878",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "65e232a7-51e8-4b09-9231-8a62efd1efd1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "49c16793-e143-4cac-b1ce-215d718eafff",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fbb12bd0-8c5e-488c-84f6-0e7f8854f7cd",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3041c8bc-9383-4476-a1e5-d1469fdbf19f",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "43c47adc-8c13-4d8d-ad14-0a781ba5c05a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f93a7808-cc95-4888-9b85-ce86f273db0d",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "IQ Lov\u00ef#9999": {
+                "puuid": "e2764d44-ea24-5b15-a696-0a4f42547298",
+                "name": "IQ Lov\u00ef",
+                "tag": "9999",
+                "team_id": "e2764d44-ea24-5b15-a696-0a4f42547298",
+                "platform": "pc",
+                "party_id": "f93a7808-cc95-4888-9b85-ce86f273db0d",
+                "agent": {
+                    "id": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+                    "name": "Deadlock"
+                },
+                "stats": {
+                    "score": 8685,
+                    "kills": 28,
+                    "deaths": 24,
+                    "assists": 6,
+                    "headshots": 0,
+                    "bodyshots": 0,
+                    "legshots": 0,
+                    "damage": {
+                        "dealt": 0,
+                        "received": 0
+                    }
+                },
+                "ability_casts": {
+                    "grenade": null,
+                    "ability1": null,
+                    "ability2": null,
+                    "ultimate": null
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "e7e71e87-4ce9-6fbb-5f72-e08b59b14d57",
+                    "title": "025b0aaf-4bc6-522c-faae-a484779c5d03",
+                    "preferred_level_border": "e6238102-425c-a647-6685-e6af7f8982d9"
+                },
+                "account_level": 96,
+                "session_playtime_in_ms": 60000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0.0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0.0
+                    }
+                }
+            }
+        }
+    },
+    "1a5d597c-f184-4743-8e1f-ad4cd0b5134e": {
+        "match": {
+            "match_id": "1a5d597c-f184-4743-8e1f-ad4cd0b5134e",
+            "map": {
+                "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+                "name": "Abyss"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1976410,
+            "started_at": "2025-01-28T10:55:04.29Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "91d810bb-aa82-4f94-affb-30b8897d910b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "a5261f83-9e5f-4604-9f2c-05e7a6a185f0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ec7a622d-c44d-4fd5-84d9-b74ab249b11e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f0fba8c8-6679-45cb-8eb7-8e59ec404cb2",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "2b77bb36-0d0e-45ee-a011-573e6d4f7018",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f23fad98-faab-48ec-9854-b229b524118b",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "IQ Lov\u00ef#9999": {
+                "puuid": "e2764d44-ea24-5b15-a696-0a4f42547298",
+                "name": "IQ Lov\u00ef",
+                "tag": "9999",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "a5261f83-9e5f-4604-9f2c-05e7a6a185f0",
+                "agent": {
+                    "id": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+                    "name": "Reyna"
+                },
+                "stats": {
+                    "score": 2479,
+                    "kills": 7,
+                    "deaths": 16,
+                    "assists": 3,
+                    "headshots": 5,
+                    "bodyshots": 23,
+                    "legshots": 0,
+                    "damage": {
+                        "dealt": 1686,
+                        "received": 3002
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 29,
+                    "ability1": 3,
+                    "ability2": 3,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 10,
+                    "name": "Silver 2"
+                },
+                "customization": {
+                    "card": "e7e71e87-4ce9-6fbb-5f72-e08b59b14d57",
+                    "title": "025b0aaf-4bc6-522c-faae-a484779c5d03",
+                    "preferred_level_border": "e6238102-425c-a647-6685-e6af7f8982d9"
+                },
+                "account_level": 96,
+                "session_playtime_in_ms": 5100000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 48400,
+                        "average": 2304.762
+                    },
+                    "loadout_value": {
+                        "overall": 79900,
+                        "average": 3804.762
+                    }
+                }
+            }
+        }
+    },
+    "3abf89f5-9414-489f-85dd-6e380a0d2121": {
+        "match": {
+            "match_id": "3abf89f5-9414-489f-85dd-6e380a0d2121",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1677389,
+            "started_at": "2025-01-28T10:23:40.661Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "e659b858-009b-468d-adc9-86e866c1e7cd",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "a5261f83-9e5f-4604-9f2c-05e7a6a185f0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f35c2598-c9f3-4092-9563-91ea3a455c67",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "36aa3d10-fce2-48c5-9ba2-82c905dc60ea",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "b468a6dc-c915-42a7-91ad-63aca724a0eb",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7bd7ad68-b613-41bf-8be5-9ed2c3a51d8a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "149a05d3-0d6d-4f86-90b6-02bcde13f936",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "IQ Lov\u00ef#9999": {
+                "puuid": "e2764d44-ea24-5b15-a696-0a4f42547298",
+                "name": "IQ Lov\u00ef",
+                "tag": "9999",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "a5261f83-9e5f-4604-9f2c-05e7a6a185f0",
+                "agent": {
+                    "id": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+                    "name": "Fade"
+                },
+                "stats": {
+                    "score": 2109,
+                    "kills": 9,
+                    "deaths": 7,
+                    "assists": 1,
+                    "headshots": 5,
+                    "bodyshots": 16,
+                    "legshots": 1,
+                    "damage": {
+                        "dealt": 1499,
+                        "received": 1321
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 13,
+                    "ability1": 2,
+                    "ability2": 19,
+                    "ultimate": 1
+                },
+                "tier": {
+                    "id": 10,
+                    "name": "Silver 2"
+                },
+                "customization": {
+                    "card": "e7e71e87-4ce9-6fbb-5f72-e08b59b14d57",
+                    "title": "025b0aaf-4bc6-522c-faae-a484779c5d03",
+                    "preferred_level_border": "e6238102-425c-a647-6685-e6af7f8982d9"
+                },
+                "account_level": 95,
+                "session_playtime_in_ms": 3240000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 42400,
+                        "average": 2355.5557
+                    },
+                    "loadout_value": {
+                        "overall": 74400,
+                        "average": 4133.3335
+                    }
+                }
+            }
+        }
+    },
+    "4aae173e-40e4-4e73-b195-3ee9838a4e96": {
+        "match": {
+            "match_id": "4aae173e-40e4-4e73-b195-3ee9838a4e96",
+            "map": {
+                "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+                "name": "Lotus"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 476722,
+            "started_at": "2025-01-28T10:19:58.826Z",
+            "is_completed": true,
+            "queue": {
+                "id": "deathmatch",
+                "name": "Deathmatch",
+                "mode_type": "Deathmatch"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "193cb973-8f69-4367-8931-c724948e4a7f",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3fde2432-1dfa-4ec0-a098-46080cd60bb1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "11f8d082-fbd1-4841-af4e-a83f3785a88b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "184898c9-c64b-450b-8820-c0b39b93a2f0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "51acfc13-713e-4753-94b3-fd8085c45f57",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "5e1af4b5-06e7-4429-8e15-9c04af348d08",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "5650976f-f5dc-478d-bdbc-7345d8d3206d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "8b93c060-ca04-40fc-a36a-19e296aeb6cf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f6498a4f-478b-4cbd-8964-0746fa5c1dd9",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "21fcb3a1-c242-4bf9-a66f-44537676f27d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7bf67587-93ae-482d-bc32-548db5fe4dfc",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "2cc77d2a-9d9d-4989-8a7e-0887a8f8f31a",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "IQ Lov\u00ef#9999": {
+                "puuid": "e2764d44-ea24-5b15-a696-0a4f42547298",
+                "name": "IQ Lov\u00ef",
+                "tag": "9999",
+                "team_id": "e2764d44-ea24-5b15-a696-0a4f42547298",
+                "platform": "pc",
+                "party_id": "21fcb3a1-c242-4bf9-a66f-44537676f27d",
+                "agent": {
+                    "id": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+                    "name": "Phoenix"
+                },
+                "stats": {
+                    "score": 1540,
+                    "kills": 5,
+                    "deaths": 6,
+                    "assists": 0,
+                    "headshots": 0,
+                    "bodyshots": 0,
+                    "legshots": 0,
+                    "damage": {
+                        "dealt": 0,
+                        "received": 0
+                    }
+                },
+                "ability_casts": {
+                    "grenade": null,
+                    "ability1": null,
+                    "ability2": null,
+                    "ultimate": null
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "e7e71e87-4ce9-6fbb-5f72-e08b59b14d57",
+                    "title": "025b0aaf-4bc6-522c-faae-a484779c5d03",
+                    "preferred_level_border": "e6238102-425c-a647-6685-e6af7f8982d9"
+                },
+                "account_level": 95,
+                "session_playtime_in_ms": 3000000,
+                "behavior": {
+                    "afk_rounds": 1.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0.0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0.0
+                    }
+                }
+            }
+        }
+    }
+}

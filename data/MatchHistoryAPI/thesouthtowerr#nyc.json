@@ -1,0 +1,1222 @@
+{
+    "557d338a-5789-482f-9043-e53b884d813c": {
+        "match": {
+            "match_id": "557d338a-5789-482f-9043-e53b884d813c",
+            "map": {
+                "id": "d960549e-485c-e861-8d71-aa9d1aed12a2",
+                "name": "Split"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1781211,
+            "started_at": "2025-02-10T11:09:58.629Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "52d311eb-eb8a-4dab-87d3-56bb439cb0cf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7106a938-ee4a-480e-94ca-075f1cdf2c33",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9b343af6-bbdd-4f83-8f65-bfd8966c4e3c",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 5
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 5,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "52d311eb-eb8a-4dab-87d3-56bb439cb0cf",
+                "agent": {
+                    "id": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+                    "name": "Reyna"
+                },
+                "stats": {
+                    "score": 2876,
+                    "kills": 9,
+                    "deaths": 17,
+                    "assists": 4,
+                    "headshots": 5,
+                    "bodyshots": 34,
+                    "legshots": 7,
+                    "damage": {
+                        "dealt": 1670,
+                        "received": 2941
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 18,
+                    "ability1": 2,
+                    "ability2": 3,
+                    "ultimate": 1
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 207,
+                "session_playtime_in_ms": 240000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 45800,
+                        "average": 2544.4443
+                    },
+                    "loadout_value": {
+                        "overall": 54550,
+                        "average": 3030.5557
+                    }
+                }
+            }
+        }
+    },
+    "30a71010-7a8c-42d5-b2fa-94ae7852ead5": {
+        "match": {
+            "match_id": "30a71010-7a8c-42d5-b2fa-94ae7852ead5",
+            "map": {
+                "id": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+                "name": "Pearl"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2893223,
+            "started_at": "2025-02-09T11:53:51.326Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "9ee877fc-b8e5-44a1-8094-7a3bac2494bf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c0d19b45-0a09-4b59-b299-669a2f29f3de",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bc8f3e1d-2266-47a2-a6ea-1d1ce0f6cad6",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ffdae8b4-4698-41bf-8874-8ce0d2cd703b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bfb51e9d-cb19-4141-b754-1890692d5859",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 15,
+                    "lost": 13
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 15
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                "agent": {
+                    "id": "6f2a04ca-43e0-be17-7f36-b3908627744d",
+                    "name": "Skye"
+                },
+                "stats": {
+                    "score": 6386,
+                    "kills": 20,
+                    "deaths": 24,
+                    "assists": 12,
+                    "headshots": 10,
+                    "bodyshots": 60,
+                    "legshots": 18,
+                    "damage": {
+                        "dealt": 3832,
+                        "received": 4633
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 3,
+                    "ability1": 19,
+                    "ability2": 45,
+                    "ultimate": 4
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 207,
+                "session_playtime_in_ms": 3720000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 93800,
+                        "average": 3350.0
+                    },
+                    "loadout_value": {
+                        "overall": 116950,
+                        "average": 4176.7856
+                    }
+                }
+            }
+        }
+    },
+    "6a6fc6ff-ed70-4a0c-8d0d-058f97b8a3cb": {
+        "match": {
+            "match_id": "6a6fc6ff-ed70-4a0c-8d0d-058f97b8a3cb",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2297076,
+            "started_at": "2025-02-09T11:07:14.494Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "a856da07-f5bb-439e-af5e-c399134ceb50",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "88fff7dd-d3b1-4f94-8994-e937619382be",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3c20b8c1-0ff4-4899-a3eb-7f83b66efc70",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "91e655f5-f774-49db-b8e6-57c8f453b3f1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fe96540b-b716-49bf-8b26-847233c78dd8",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 10
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 10,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                "agent": {
+                    "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+                    "name": "Cypher"
+                },
+                "stats": {
+                    "score": 2164,
+                    "kills": 8,
+                    "deaths": 17,
+                    "assists": 6,
+                    "headshots": 2,
+                    "bodyshots": 32,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 1379,
+                        "received": 3423
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 44,
+                    "ability1": 31,
+                    "ability2": 15,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 207,
+                "session_playtime_in_ms": 960000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 58100,
+                        "average": 2526.087
+                    },
+                    "loadout_value": {
+                        "overall": 66150,
+                        "average": 2876.087
+                    }
+                }
+            }
+        }
+    },
+    "e605fb6d-6efe-4c7a-b92b-ba44a476d777": {
+        "match": {
+            "match_id": "e605fb6d-6efe-4c7a-b92b-ba44a476d777",
+            "map": {
+                "id": "b529448b-4d60-346e-e89e-00a4c527a405",
+                "name": "Fracture"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1907735,
+            "started_at": "2025-02-08T10:10:31.128Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "da001fa5-91e0-437b-b070-b842d3d20bb1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "278bf659-e655-4ffa-bb1c-548786ca2a24",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1d90e66c-4f1e-4299-bb53-a601c4ce5af7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "099ff096-e962-4f04-9fe6-7d874255413a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "329c305e-3545-4737-83e3-4c62a73e9304",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "cfd08bdf-e76e-4bc3-9aca-4538dd774867",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 8
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 8,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                "agent": {
+                    "id": "bb2a4828-46eb-8cd1-e765-15848195d751",
+                    "name": "Neon"
+                },
+                "stats": {
+                    "score": 2993,
+                    "kills": 9,
+                    "deaths": 18,
+                    "assists": 3,
+                    "headshots": 10,
+                    "bodyshots": 39,
+                    "legshots": 5,
+                    "damage": {
+                        "dealt": 1887,
+                        "received": 3455
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 10,
+                    "ability1": 14,
+                    "ability2": 20,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 207,
+                "session_playtime_in_ms": 2700000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 54250,
+                        "average": 2583.3333
+                    },
+                    "loadout_value": {
+                        "overall": 66050,
+                        "average": 3145.238
+                    }
+                }
+            }
+        }
+    },
+    "d3c9cc8b-f082-4337-8d41-db1e75bfff4c": {
+        "match": {
+            "match_id": "d3c9cc8b-f082-4337-8d41-db1e75bfff4c",
+            "map": {
+                "id": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+                "name": "Pearl"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2010450,
+            "started_at": "2025-02-08T09:32:29.581Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "2f43be7c-6b39-4314-94ca-a70b70ac8fd5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7fd865ed-cac9-4e90-b958-fc9bddce17c7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "88477c10-9816-4d26-9594-4ba5e8bb0d18",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ab09450e-f624-456f-8e99-eea7c9cfc7d4",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d072f08c-4c0d-4bbe-aabb-f467e629365d",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 9,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 9
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                "agent": {
+                    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+                    "name": "Omen"
+                },
+                "stats": {
+                    "score": 5824,
+                    "kills": 21,
+                    "deaths": 17,
+                    "assists": 9,
+                    "headshots": 6,
+                    "bodyshots": 65,
+                    "legshots": 13,
+                    "damage": {
+                        "dealt": 3527,
+                        "received": 2813
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 13,
+                    "ability1": 15,
+                    "ability2": 43,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 206,
+                "session_playtime_in_ms": 420000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 59900,
+                        "average": 2722.7273
+                    },
+                    "loadout_value": {
+                        "overall": 78250,
+                        "average": 3556.818
+                    }
+                }
+            }
+        }
+    },
+    "723c23ac-5e6e-4b65-8261-e102dbf7d972": {
+        "match": {
+            "match_id": "723c23ac-5e6e-4b65-8261-e102dbf7d972",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2141404,
+            "started_at": "2025-02-07T11:20:08.064Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "86d8954d-b202-44b3-819b-a2a1705e4bf9",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fb51bf64-b8e4-45e9-ae9c-5de535607e0a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "a8afcef8-6edf-4197-bda0-f3a570e53491",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "01d8dd81-1847-4943-bf04-beaf4e1adabe",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "a8afcef8-6edf-4197-bda0-f3a570e53491",
+                "agent": {
+                    "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+                    "name": "Cypher"
+                },
+                "stats": {
+                    "score": 5610,
+                    "kills": 19,
+                    "deaths": 16,
+                    "assists": 3,
+                    "headshots": 10,
+                    "bodyshots": 66,
+                    "legshots": 9,
+                    "damage": {
+                        "dealt": 3778,
+                        "received": 2959
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 35,
+                    "ability1": 31,
+                    "ability2": 14,
+                    "ultimate": 5
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 206,
+                "session_playtime_in_ms": 720000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 51700,
+                        "average": 2350.0
+                    },
+                    "loadout_value": {
+                        "overall": 63150,
+                        "average": 2870.4546
+                    }
+                }
+            }
+        }
+    },
+    "12defba8-944c-47b6-9189-f3af5c23e41a": {
+        "match": {
+            "match_id": "12defba8-944c-47b6-9189-f3af5c23e41a",
+            "map": {
+                "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+                "name": "Haven"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1639612,
+            "started_at": "2025-02-05T12:03:21.23Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "cf00d0e5-85ce-445a-a275-dd711cba2cba",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c18a933f-807f-4925-b1ae-e07ffc9558f7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "e2c1ba06-5fa2-41cf-bc14-7d50f2807196",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "94b66b04-8e7a-4f40-9925-e933774929de",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "da76bead-5e11-4876-97eb-70eb7553a024",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "89ae9a39-5c91-4fc7-b2cf-f624ad9f70e5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                "agent": {
+                    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+                    "name": "Omen"
+                },
+                "stats": {
+                    "score": 5118,
+                    "kills": 17,
+                    "deaths": 12,
+                    "assists": 7,
+                    "headshots": 7,
+                    "bodyshots": 49,
+                    "legshots": 17,
+                    "damage": {
+                        "dealt": 3407,
+                        "received": 1970
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 10,
+                    "ability1": 14,
+                    "ability2": 25,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 206,
+                "session_playtime_in_ms": 120000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 44400,
+                        "average": 2336.842
+                    },
+                    "loadout_value": {
+                        "overall": 70700,
+                        "average": 3721.0527
+                    }
+                }
+            }
+        }
+    },
+    "afbe6545-a064-47fb-a22e-ba440e51aa52": {
+        "match": {
+            "match_id": "afbe6545-a064-47fb-a22e-ba440e51aa52",
+            "map": {
+                "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+                "name": "Abyss"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 2435207,
+            "started_at": "2025-02-04T11:42:31.381Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "2d2b3414-b1c8-4001-836d-3bc5dee09234",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "e0c72093-f845-4fdb-8c99-1ef7ce06620f",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "0b6d5e77-f1ac-44dc-a8a4-33769a736413",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fdcad136-371c-4ea5-9bc3-b92861950c9f",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "24184026-2df0-4cf9-a16e-e4e59b414ba8",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "0b6d5e77-f1ac-44dc-a8a4-33769a736413",
+                "agent": {
+                    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+                    "name": "Omen"
+                },
+                "stats": {
+                    "score": 6158,
+                    "kills": 20,
+                    "deaths": 21,
+                    "assists": 8,
+                    "headshots": 9,
+                    "bodyshots": 64,
+                    "legshots": 13,
+                    "damage": {
+                        "dealt": 3811,
+                        "received": 3967
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 15,
+                    "ability1": 17,
+                    "ability2": 39,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 206,
+                "session_playtime_in_ms": 2220000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 68500,
+                        "average": 2854.1667
+                    },
+                    "loadout_value": {
+                        "overall": 81850,
+                        "average": 3410.4167
+                    }
+                }
+            }
+        }
+    },
+    "e8400b83-7a82-4f6f-9402-846e85eb7987": {
+        "match": {
+            "match_id": "e8400b83-7a82-4f6f-9402-846e85eb7987",
+            "map": {
+                "id": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+                "name": "Pearl"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1543548,
+            "started_at": "2025-02-04T11:10:10.043Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "08ed4b68-f8de-44d3-a595-81a7bdfcc3c0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "6108aa3b-4b5f-4a68-92aa-758f21189a04",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c8df3403-b464-46f8-8871-d82b5fc707d9",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "5b98bf73-93d2-46a9-b5e7-830be881ebb0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "0b6d5e77-f1ac-44dc-a8a4-33769a736413",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "0b6d5e77-f1ac-44dc-a8a4-33769a736413",
+                "agent": {
+                    "id": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+                    "name": "Brimstone"
+                },
+                "stats": {
+                    "score": 4667,
+                    "kills": 16,
+                    "deaths": 13,
+                    "assists": 9,
+                    "headshots": 4,
+                    "bodyshots": 61,
+                    "legshots": 13,
+                    "damage": {
+                        "dealt": 2520,
+                        "received": 2655
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 16,
+                    "ability1": 9,
+                    "ability2": 33,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 206,
+                "session_playtime_in_ms": 300000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 53450,
+                        "average": 3144.1177
+                    },
+                    "loadout_value": {
+                        "overall": 63700,
+                        "average": 3747.0588
+                    }
+                }
+            }
+        }
+    },
+    "30cf1465-d212-4b55-8e5a-7551d4074b49": {
+        "match": {
+            "match_id": "30cf1465-d212-4b55-8e5a-7551d4074b49",
+            "map": {
+                "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+                "name": "Lotus"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1906810,
+            "started_at": "2025-02-01T11:32:49.686Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "9f88ffb6-cde9-4f78-9195-f9e63fe88df5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "019929aa-ae4b-4f2e-880a-0eca70905edb",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "5d70dd50-a4a7-42bd-9d82-b7a0e7d7e267",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "38fce527-6ebe-405a-a592-ce53c41df05d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1fe5c2d0-9c0e-4e90-b303-16efe7f0e9e1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3593091d-2541-4f18-8fa9-04d898c5c1b6",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "TheSouthTowerr#NYC": {
+                "puuid": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "name": "TheSouthTowerr",
+                "tag": "NYC",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "1fe5c2d0-9c0e-4e90-b303-16efe7f0e9e1",
+                "agent": {
+                    "id": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+                    "name": "Deadlock"
+                },
+                "stats": {
+                    "score": 2899,
+                    "kills": 10,
+                    "deaths": 18,
+                    "assists": 2,
+                    "headshots": 6,
+                    "bodyshots": 21,
+                    "legshots": 7,
+                    "damage": {
+                        "dealt": 1974,
+                        "received": 2956
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 10,
+                    "ability1": 21,
+                    "ability2": 13,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "customization": {
+                    "card": "36377e6d-4be8-a585-f4a6-4fbdbb697324",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "6f610ab6-4a21-63fd-ac19-4a9204bc2721"
+                },
+                "account_level": 205,
+                "session_playtime_in_ms": 840000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 48250,
+                        "average": 2539.4736
+                    },
+                    "loadout_value": {
+                        "overall": 49650,
+                        "average": 2613.158
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,682 @@
+{
+    "557d338a-5789-482f-9043-e53b884d813c": {
+        "match": {
+            "match_id": "557d338a-5789-482f-9043-e53b884d813c",
+            "map": {
+                "id": "d960549e-485c-e861-8d71-aa9d1aed12a2",
+                "name": "Split"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1781211,
+            "started_at": "2025-02-10T11:09:58.629Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "52d311eb-eb8a-4dab-87d3-56bb439cb0cf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7106a938-ee4a-480e-94ca-075f1cdf2c33",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9b343af6-bbdd-4f83-8f65-bfd8966c4e3c",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 5
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 5,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "Boot6#OCE": {
+                "puuid": "78bc6443-618c-59bd-a997-5b68293a9025",
+                "name": "Boot6",
+                "tag": "OCE",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "52d311eb-eb8a-4dab-87d3-56bb439cb0cf",
+                "agent": {
+                    "id": "1dbf2edd-4729-0984-3115-daa5eed44993",
+                    "name": "Clove"
+                },
+                "stats": {
+                    "score": 2232,
+                    "kills": 5,
+                    "deaths": 18,
+                    "assists": 1,
+                    "headshots": 5,
+                    "bodyshots": 35,
+                    "legshots": 8,
+                    "damage": {
+                        "dealt": 1695,
+                        "received": 3207
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 3,
+                    "ability1": 8,
+                    "ability2": 45,
+                    "ultimate": 1
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "714965d1-469f-6661-1012-5d8664ca5e4a",
+                    "title": "1fcfb3b1-4e5d-1745-eb41-59b8bad3d48a",
+                    "preferred_level_border": "5156a90d-4d65-58d0-f6a8-48a0c003878a"
+                },
+                "account_level": 41,
+                "session_playtime_in_ms": 660000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 44450,
+                        "average": 2469.4443
+                    },
+                    "loadout_value": {
+                        "overall": 51900,
+                        "average": 2883.3333
+                    }
+                }
+            }
+        }
+    },
+    "2ca13bee-aa5e-4b72-99be-9b899e5f0bd7": {
+        "match": {
+            "match_id": "2ca13bee-aa5e-4b72-99be-9b899e5f0bd7",
+            "map": {
+                "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+                "name": "Abyss"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 2295804,
+            "started_at": "2025-01-23T10:47:01.378Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "c8fac107-0b6c-4cd5-bf5e-1c75f17f87ed",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "6e950fac-339b-4915-a428-c912c703c594",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "56ab6b62-537c-425e-b03d-4663d7d415c3",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "470b142a-e29f-4952-a57e-3237dbb014a4",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d4766b07-786b-420f-b86e-775a10ffc26a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "072ceeb3-4df7-4940-8543-59498c766007",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c62f4abc-5af5-4d0d-9931-9310d73f9c47",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "Boot6#OCE": {
+                "puuid": "78bc6443-618c-59bd-a997-5b68293a9025",
+                "name": "Boot6",
+                "tag": "OCE",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "6e950fac-339b-4915-a428-c912c703c594",
+                "agent": {
+                    "id": "6f2a04ca-43e0-be17-7f36-b3908627744d",
+                    "name": "Skye"
+                },
+                "stats": {
+                    "score": 2519,
+                    "kills": 9,
+                    "deaths": 17,
+                    "assists": 3,
+                    "headshots": 5,
+                    "bodyshots": 27,
+                    "legshots": 6,
+                    "damage": {
+                        "dealt": 1418,
+                        "received": 3512
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 0,
+                    "ability1": 11,
+                    "ability2": 35,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 5,
+                    "name": "Iron 3"
+                },
+                "customization": {
+                    "card": "714965d1-469f-6661-1012-5d8664ca5e4a",
+                    "title": "1fcfb3b1-4e5d-1745-eb41-59b8bad3d48a",
+                    "preferred_level_border": "5156a90d-4d65-58d0-f6a8-48a0c003878a"
+                },
+                "account_level": 41,
+                "session_playtime_in_ms": 120000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 63150,
+                        "average": 2745.652
+                    },
+                    "loadout_value": {
+                        "overall": 78600,
+                        "average": 3417.3914
+                    }
+                }
+            }
+        }
+    },
+    "f2100ed8-c48f-4fab-875c-12a28832461f": {
+        "match": {
+            "match_id": "f2100ed8-c48f-4fab-875c-12a28832461f",
+            "map": {
+                "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+                "name": "Abyss"
+            },
+            "game_version": "release-10.00-shipping-11-3168881",
+            "game_length_in_ms": 2012878,
+            "started_at": "2025-01-19T10:50:05.636Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "bfce341f-d0b9-48f3-853e-8ff0e5c1d227",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fef66376-b753-4fbc-bc58-a14dc5f5e88d",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "Boot6#OCE": {
+                "puuid": "78bc6443-618c-59bd-a997-5b68293a9025",
+                "name": "Boot6",
+                "tag": "OCE",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "bfce341f-d0b9-48f3-853e-8ff0e5c1d227",
+                "agent": {
+                    "id": "e370fa57-4757-3604-3648-499e1f642d3f",
+                    "name": "Gekko"
+                },
+                "stats": {
+                    "score": 2706,
+                    "kills": 9,
+                    "deaths": 15,
+                    "assists": 5,
+                    "headshots": 4,
+                    "bodyshots": 36,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 1627,
+                        "received": 2653
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 6,
+                    "ability1": 10,
+                    "ability2": 17,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 5,
+                    "name": "Iron 3"
+                },
+                "customization": {
+                    "card": "714965d1-469f-6661-1012-5d8664ca5e4a",
+                    "title": "1fcfb3b1-4e5d-1745-eb41-59b8bad3d48a",
+                    "preferred_level_border": "5156a90d-4d65-58d0-f6a8-48a0c003878a"
+                },
+                "account_level": 41,
+                "session_playtime_in_ms": 720000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 44550,
+                        "average": 2344.7368
+                    },
+                    "loadout_value": {
+                        "overall": 54050,
+                        "average": 2844.7368
+                    }
+                }
+            }
+        }
+    },
+    "34cb5ceb-58a9-467d-a4c2-aa46ceaa1e71": {
+        "match": {
+            "match_id": "34cb5ceb-58a9-467d-a4c2-aa46ceaa1e71",
+            "map": {
+                "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+                "name": "Haven"
+            },
+            "game_version": "release-10.00-shipping-11-3168881",
+            "game_length_in_ms": 1347462,
+            "started_at": "2025-01-17T10:26:01.051Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "d7437cec-575a-43c1-bd36-7bb12cb613dc",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9dec923a-de12-4c30-9214-3c18dd1827de",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "45922129-4695-4a1e-8c89-45b665aaf6a3",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f9d22f0d-fb09-4146-85a2-82fab16379aa",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fca6936f-8c16-4fd9-811e-b73f68871d01",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "eea8d366-c9dd-420f-8c8e-a005f30e4b0a",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "Boot6#OCE": {
+                "puuid": "78bc6443-618c-59bd-a997-5b68293a9025",
+                "name": "Boot6",
+                "tag": "OCE",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "9dec923a-de12-4c30-9214-3c18dd1827de",
+                "agent": {
+                    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+                    "name": "Omen"
+                },
+                "stats": {
+                    "score": 1543,
+                    "kills": 4,
+                    "deaths": 15,
+                    "assists": 5,
+                    "headshots": 3,
+                    "bodyshots": 17,
+                    "legshots": 7,
+                    "damage": {
+                        "dealt": 1233,
+                        "received": 2404
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 4,
+                    "ability1": 5,
+                    "ability2": 20,
+                    "ultimate": 1
+                },
+                "tier": {
+                    "id": 6,
+                    "name": "Bronze 1"
+                },
+                "customization": {
+                    "card": "714965d1-469f-6661-1012-5d8664ca5e4a",
+                    "title": "1fcfb3b1-4e5d-1745-eb41-59b8bad3d48a",
+                    "preferred_level_border": "5156a90d-4d65-58d0-f6a8-48a0c003878a"
+                },
+                "account_level": 41,
+                "session_playtime_in_ms": 60000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 39800,
+                        "average": 2487.5
+                    },
+                    "loadout_value": {
+                        "overall": 45350,
+                        "average": 2834.375
+                    }
+                }
+            }
+        }
+    },
+    "60f5c5b0-a695-48e5-85e4-f04e7bfe9ac7": {
+        "match": {
+            "match_id": "60f5c5b0-a695-48e5-85e4-f04e7bfe9ac7",
+            "map": {
+                "id": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+                "name": "Pearl"
+            },
+            "game_version": "release-10.00-shipping-11-3168881",
+            "game_length_in_ms": 1606489,
+            "started_at": "2025-01-16T11:00:46.588Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "92bbbb50-376a-4b5c-885c-fd980e74d675",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "0c8a2af9-ec19-4af2-823a-291ad5277843",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ca02fff4-5d14-4d77-a4e7-139e1d5fcc2c",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "72f90e33-07fd-42e9-8578-ec8c2b04efcd",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "745378bb-5128-4bc7-9788-fe2eda3a25af",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "35287592-7862-4ea6-a560-e7d7e032cd5a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7b5d0695-2621-478f-9342-a49da39b001d",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "Boot6#OCE": {
+                "puuid": "78bc6443-618c-59bd-a997-5b68293a9025",
+                "name": "Boot6",
+                "tag": "OCE",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "72f90e33-07fd-42e9-8578-ec8c2b04efcd",
+                "agent": {
+                    "id": "6f2a04ca-43e0-be17-7f36-b3908627744d",
+                    "name": "Skye"
+                },
+                "stats": {
+                    "score": 437,
+                    "kills": 1,
+                    "deaths": 16,
+                    "assists": 2,
+                    "headshots": 0,
+                    "bodyshots": 9,
+                    "legshots": 1,
+                    "damage": {
+                        "dealt": 316,
+                        "received": 2796
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 1,
+                    "ability1": 6,
+                    "ability2": 18,
+                    "ultimate": 1
+                },
+                "tier": {
+                    "id": 6,
+                    "name": "Bronze 1"
+                },
+                "customization": {
+                    "card": "714965d1-469f-6661-1012-5d8664ca5e4a",
+                    "title": "1fcfb3b1-4e5d-1745-eb41-59b8bad3d48a",
+                    "preferred_level_border": "5156a90d-4d65-58d0-f6a8-48a0c003878a"
+                },
+                "account_level": 41,
+                "session_playtime_in_ms": 2460000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 42000,
+                        "average": 2470.5881
+                    },
+                    "loadout_value": {
+                        "overall": 50150,
+                        "average": 2950.0
+                    }
+                }
+            }
+        }
+    },
+    "632a0bec-c883-46cc-86f2-16828404f8a1": {
+        "match": {
+            "match_id": "632a0bec-c883-46cc-86f2-16828404f8a1",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.00-shipping-11-3168881",
+            "game_length_in_ms": 2149888,
+            "started_at": "2025-01-16T10:21:54.232Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "a5937cd4-ff29-4048-8fe1-d61b3d436051",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1d235c4c-fdd7-4f2e-ab30-ff03c38bb86d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3bec6c40-4a2a-4f3b-bde3-4879b80a4dba",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "72f90e33-07fd-42e9-8578-ec8c2b04efcd",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fbbbf746-70cb-4b64-86f4-d09ff56e44ee",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "Boot6#OCE": {
+                "puuid": "78bc6443-618c-59bd-a997-5b68293a9025",
+                "name": "Boot6",
+                "tag": "OCE",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "72f90e33-07fd-42e9-8578-ec8c2b04efcd",
+                "agent": {
+                    "id": "8e253930-4c05-31dd-1b6c-968525494517",
+                    "name": "Omen"
+                },
+                "stats": {
+                    "score": 2174,
+                    "kills": 8,
+                    "deaths": 16,
+                    "assists": 6,
+                    "headshots": 5,
+                    "bodyshots": 25,
+                    "legshots": 3,
+                    "damage": {
+                        "dealt": 1341,
+                        "received": 3134
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 6,
+                    "ability1": 8,
+                    "ability2": 43,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 6,
+                    "name": "Bronze 1"
+                },
+                "customization": {
+                    "card": "714965d1-469f-6661-1012-5d8664ca5e4a",
+                    "title": "1fcfb3b1-4e5d-1745-eb41-59b8bad3d48a",
+                    "preferred_level_border": "5156a90d-4d65-58d0-f6a8-48a0c003878a"
+                },
+                "account_level": 41,
+                "session_playtime_in_ms": 120000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 57050,
+                        "average": 2716.6667
+                    },
+                    "loadout_value": {
+                        "overall": 75350,
+                        "average": 3588.0952
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,568 @@
+{
+    "a1de182a-70bc-49cc-b008-c36cea6dee26": {
+        "match": {
+            "match_id": "a1de182a-70bc-49cc-b008-c36cea6dee26",
+            "map": {
+                "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+                "name": "Haven"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 2378704,
+            "started_at": "2025-01-27T10:58:22.995Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "a146e802-9025-43d3-b474-28b2110ca4d6",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "120fec10-9089-43b5-9996-138c5601c5e0",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "twxlxght#985": {
+                "puuid": "cbe78b64-b01f-5ff3-a41a-8a892665837a",
+                "name": "twxlxght",
+                "tag": "985",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "120fec10-9089-43b5-9996-138c5601c5e0",
+                "agent": {
+                    "id": "1dbf2edd-4729-0984-3115-daa5eed44993",
+                    "name": "Clove"
+                },
+                "stats": {
+                    "score": 6336,
+                    "kills": 20,
+                    "deaths": 20,
+                    "assists": 13,
+                    "headshots": 12,
+                    "bodyshots": 71,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 4394,
+                        "received": 4009
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 10,
+                    "ability1": 11,
+                    "ability2": 60,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 7,
+                    "name": "Bronze 2"
+                },
+                "customization": {
+                    "card": "aa7261e8-49b3-a489-d23f-39b935122f09",
+                    "title": "ca40b3ab-4d9a-a032-60f1-ac9b22e50db9",
+                    "preferred_level_border": "547ac9dd-495d-f11d-d921-3fbd14604ae0"
+                },
+                "account_level": 214,
+                "session_playtime_in_ms": 5220000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 64500,
+                        "average": 2480.7693
+                    },
+                    "loadout_value": {
+                        "overall": 90250,
+                        "average": 3471.1538
+                    }
+                }
+            }
+        }
+    },
+    "f9070bd6-0132-46be-9d33-4fcfb2e5d775": {
+        "match": {
+            "match_id": "f9070bd6-0132-46be-9d33-4fcfb2e5d775",
+            "map": {
+                "id": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+                "name": "Pearl"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 2214357,
+            "started_at": "2025-01-27T10:02:59.98Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "5ee9cd61-e7f2-4b9f-9932-ed1ce85598cf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1cf0fdee-357a-4e28-9d58-d7462f559337",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "120fec10-9089-43b5-9996-138c5601c5e0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "177a488a-6f75-4e56-ac7a-23011ebb39cb",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9bbde27b-8afd-4713-a484-85e221812a96",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "000e417a-e4d2-4539-88fe-2947a7b5a4c1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "964c211e-b6a1-4370-a73a-bf553091e8c8",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "twxlxght#985": {
+                "puuid": "cbe78b64-b01f-5ff3-a41a-8a892665837a",
+                "name": "twxlxght",
+                "tag": "985",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "000e417a-e4d2-4539-88fe-2947a7b5a4c1",
+                "agent": {
+                    "id": "569fdd95-4d10-43ab-ca70-79becc718b46",
+                    "name": "Sage"
+                },
+                "stats": {
+                    "score": 3527,
+                    "kills": 14,
+                    "deaths": 13,
+                    "assists": 4,
+                    "headshots": 10,
+                    "bodyshots": 22,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 2554,
+                        "received": 2531
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 8,
+                    "ability1": 12,
+                    "ability2": 7,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 7,
+                    "name": "Bronze 2"
+                },
+                "customization": {
+                    "card": "aa7261e8-49b3-a489-d23f-39b935122f09",
+                    "title": "ca40b3ab-4d9a-a032-60f1-ac9b22e50db9",
+                    "preferred_level_border": "547ac9dd-495d-f11d-d921-3fbd14604ae0"
+                },
+                "account_level": 214,
+                "session_playtime_in_ms": 1920000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 60400,
+                        "average": 2626.087
+                    },
+                    "loadout_value": {
+                        "overall": 81500,
+                        "average": 3543.4783
+                    }
+                }
+            }
+        }
+    },
+    "01e68ff0-3bee-47b5-89cd-2f59c8dec922": {
+        "match": {
+            "match_id": "01e68ff0-3bee-47b5-89cd-2f59c8dec922",
+            "map": {
+                "id": "b529448b-4d60-346e-e89e-00a4c527a405",
+                "name": "Fracture"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1600053,
+            "started_at": "2025-01-27T09:33:21.919Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "c996c67e-0125-4dc0-8bca-64909500ba4e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "11418ef5-fb2a-4993-9167-d3d713c80a2b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "e352d2b7-a58b-4c53-9710-c0615b648b63",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "000e417a-e4d2-4539-88fe-2947a7b5a4c1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d503f7c9-4e92-4bb9-9c00-601e09416363",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "4ec1fc4d-7f64-43c9-9b91-f26b9f2d15ab",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d2ab71a9-16ba-4196-b0e6-a0458498d8c8",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ae9b171e-cbb7-465f-b4c2-99463b31cacb",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "twxlxght#985": {
+                "puuid": "cbe78b64-b01f-5ff3-a41a-8a892665837a",
+                "name": "twxlxght",
+                "tag": "985",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "000e417a-e4d2-4539-88fe-2947a7b5a4c1",
+                "agent": {
+                    "id": "569fdd95-4d10-43ab-ca70-79becc718b46",
+                    "name": "Sage"
+                },
+                "stats": {
+                    "score": 2242,
+                    "kills": 8,
+                    "deaths": 8,
+                    "assists": 5,
+                    "headshots": 6,
+                    "bodyshots": 23,
+                    "legshots": 1,
+                    "damage": {
+                        "dealt": 1498,
+                        "received": 1776
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 7,
+                    "ability1": 8,
+                    "ability2": 5,
+                    "ultimate": 0
+                },
+                "tier": {
+                    "id": 7,
+                    "name": "Bronze 2"
+                },
+                "customization": {
+                    "card": "aa7261e8-49b3-a489-d23f-39b935122f09",
+                    "title": "ca40b3ab-4d9a-a032-60f1-ac9b22e50db9",
+                    "preferred_level_border": "547ac9dd-495d-f11d-d921-3fbd14604ae0"
+                },
+                "account_level": 214,
+                "session_playtime_in_ms": 120000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 31400,
+                        "average": 2093.3333
+                    },
+                    "loadout_value": {
+                        "overall": 48650,
+                        "average": 3243.3333
+                    }
+                }
+            }
+        }
+    },
+    "18df852f-ad58-4954-a56b-fea075d1ab34": {
+        "match": {
+            "match_id": "18df852f-ad58-4954-a56b-fea075d1ab34",
+            "map": {
+                "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+                "name": "Abyss"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1801239,
+            "started_at": "2025-01-26T09:26:19.627Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "6e4ed077-d3e6-4f6e-bbaf-ec579152dd6b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bb76ef67-bd6d-45bc-933d-4836026ff946",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "be66f261-d7db-4362-a90f-029d8b8c00f7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9dfbcb4a-92ce-4ed4-8ac0-a4a7e1a0272e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c2da206b-61cc-4b19-abd7-b7ca6d88784c",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "4da7867a-d9bd-4891-a198-df3f79eb0a2a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "276de7f4-2c0f-4d84-af54-726f1a72421d",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "twxlxght#985": {
+                "puuid": "cbe78b64-b01f-5ff3-a41a-8a892665837a",
+                "name": "twxlxght",
+                "tag": "985",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "276de7f4-2c0f-4d84-af54-726f1a72421d",
+                "agent": {
+                    "id": "569fdd95-4d10-43ab-ca70-79becc718b46",
+                    "name": "Sage"
+                },
+                "stats": {
+                    "score": 3311,
+                    "kills": 11,
+                    "deaths": 15,
+                    "assists": 6,
+                    "headshots": 9,
+                    "bodyshots": 35,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 2305,
+                        "received": 2507
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 13,
+                    "ability1": 14,
+                    "ability2": 4,
+                    "ultimate": 1
+                },
+                "tier": {
+                    "id": 7,
+                    "name": "Bronze 2"
+                },
+                "customization": {
+                    "card": "aa7261e8-49b3-a489-d23f-39b935122f09",
+                    "title": "ca40b3ab-4d9a-a032-60f1-ac9b22e50db9",
+                    "preferred_level_border": "547ac9dd-495d-f11d-d921-3fbd14604ae0"
+                },
+                "account_level": 214,
+                "session_playtime_in_ms": 2400000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 43850,
+                        "average": 2436.111
+                    },
+                    "loadout_value": {
+                        "overall": 52250,
+                        "average": 2902.7778
+                    }
+                }
+            }
+        }
+    },
+    "cf665292-d3ef-4281-bbea-7e9719b5bb36": {
+        "match": {
+            "match_id": "cf665292-d3ef-4281-bbea-7e9719b5bb36",
+            "map": {
+                "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+                "name": "Haven"
+            },
+            "game_version": "release-10.01-shipping-9-3197283",
+            "game_length_in_ms": 1855823,
+            "started_at": "2025-01-26T08:51:36.346Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "276de7f4-2c0f-4d84-af54-726f1a72421d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7b7185f0-09a8-4410-b816-d3f1e3e7a5e1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "693abc1c-3414-4dcb-885c-b92b205acd4a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bf0954ce-b600-4f03-a725-e7bb7b8c9487",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d5eb772f-ebe9-4bb8-a567-1cf3cbf98a1a",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "twxlxght#985": {
+                "puuid": "cbe78b64-b01f-5ff3-a41a-8a892665837a",
+                "name": "twxlxght",
+                "tag": "985",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "276de7f4-2c0f-4d84-af54-726f1a72421d",
+                "agent": {
+                    "id": "1dbf2edd-4729-0984-3115-daa5eed44993",
+                    "name": "Clove"
+                },
+                "stats": {
+                    "score": 4171,
+                    "kills": 14,
+                    "deaths": 16,
+                    "assists": 7,
+                    "headshots": 10,
+                    "bodyshots": 31,
+                    "legshots": 5,
+                    "damage": {
+                        "dealt": 2707,
+                        "received": 2708
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 5,
+                    "ability1": 10,
+                    "ability2": 42,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 7,
+                    "name": "Bronze 2"
+                },
+                "customization": {
+                    "card": "aa7261e8-49b3-a489-d23f-39b935122f09",
+                    "title": "ca40b3ab-4d9a-a032-60f1-ac9b22e50db9",
+                    "preferred_level_border": "547ac9dd-495d-f11d-d921-3fbd14604ae0"
+                },
+                "account_level": 214,
+                "session_playtime_in_ms": 300000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 41900,
+                        "average": 1821.7391
+                    },
+                    "loadout_value": {
+                        "overall": 72150,
+                        "average": 3136.9565
+                    }
+                }
+            }
+        }
+    }
+}

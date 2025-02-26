@@ -1,0 +1,455 @@
+{
+    "status": 200,
+    "data": [
+      {
+        "uuid": "0df5adb9-4dcb-6899-1306-3e9860661dd3",
+        "displayName": "Closed Beta",
+        "title": null,
+        "type": null,
+        "startTime": "2020-04-06T16:00:00Z",
+        "endTime": "2020-05-29T06:59:00Z",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_CB_DataAsset"
+      },
+      {
+        "uuid": "3f61c772-4560-cd3f-5d3f-a7ab5abda6b3",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2020-06-01T07:00:00Z",
+        "endTime": "2020-08-04",
+        "parentUuid": "fcf2c8f4-4324-e50b-2e23-718e4a3ab046",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode1_Act1_DataAsset"
+      },
+      {
+        "uuid": "0530b9c4-4980-f2ee-df5d-09864cd00542",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2020-08-04",
+        "endTime": "2020-10-13",
+        "parentUuid": "fcf2c8f4-4324-e50b-2e23-718e4a3ab046",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode1_Act2_DataAsset"
+      },
+      {
+        "uuid": "46ea6166-4573-1128-9cea-60a15640059b",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2020-10-13",
+        "endTime": "2021-01-12",
+        "parentUuid": "fcf2c8f4-4324-e50b-2e23-718e4a3ab046",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode1_Act3_DataAsset"
+      },
+      {
+        "uuid": "fcf2c8f4-4324-e50b-2e23-718e4a3ab046",
+        "displayName": "EPISODE 1",
+        "title": null,
+        "type": null,
+        "startTime": "2020-06-01T07:00:00Z",
+        "endTime": "2021-01-12",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode1_DataAsset"
+      },
+      {
+        "uuid": "97b6e739-44cc-ffa7-49ad-398ba502ceb0",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2021-01-12",
+        "endTime": "2021-03-02",
+        "parentUuid": "71c81c67-4fae-ceb1-844c-aab2bb8710fa",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode2_Act1_DataAsset"
+      },
+      {
+        "uuid": "ab57ef51-4e59-da91-cc8d-51a5a2b9b8ff",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2021-03-02",
+        "endTime": "2021-04-27",
+        "parentUuid": "71c81c67-4fae-ceb1-844c-aab2bb8710fa",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode2_Act2_DataAsset"
+      },
+      {
+        "uuid": "52e9749a-429b-7060-99fe-4595426a0cf7",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2021-04-27",
+        "endTime": "2021-06-22",
+        "parentUuid": "71c81c67-4fae-ceb1-844c-aab2bb8710fa",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode2_Act3_DataAsset"
+      },
+      {
+        "uuid": "71c81c67-4fae-ceb1-844c-aab2bb8710fa",
+        "displayName": "EPISODE 2",
+        "title": null,
+        "type": null,
+        "startTime": "2021-01-12",
+        "endTime": "2021-06-22",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode2_DataAsset"
+      },
+      {
+        "uuid": "2a27e5d2-4d30-c9e2-b15a-93b8909a442c",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2021-06-22",
+        "endTime": "2021-09-08",
+        "parentUuid": "97b39124-46ce-8b55-8fd1-7cbf7ffe173f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode3_Act1_DataAsset"
+      },
+      {
+        "uuid": "4cb622e1-4244-6da3-7276-8daaf1c01be2",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2021-09-08",
+        "endTime": "2021-11-02",
+        "parentUuid": "97b39124-46ce-8b55-8fd1-7cbf7ffe173f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode3_Act2_DataAsset"
+      },
+      {
+        "uuid": "a16955a5-4ad0-f761-5e9e-389df1c892fb",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2021-11-02",
+        "endTime": "2022-01-11",
+        "parentUuid": "97b39124-46ce-8b55-8fd1-7cbf7ffe173f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode3_Act3_DataAsset"
+      },
+      {
+        "uuid": "97b39124-46ce-8b55-8fd1-7cbf7ffe173f",
+        "displayName": "EPISODE 3",
+        "title": null,
+        "type": null,
+        "startTime": "2021-06-22",
+        "endTime": "2022-01-11",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode3_DataAsset"
+      },
+      {
+        "uuid": "573f53ac-41a5-3a7d-d9ce-d6a6298e5704",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2022-01-11",
+        "endTime": "2022-03-01",
+        "parentUuid": "808202d6-4f2b-a8ff-1feb-b3a0590ad79f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode4_Act1_DataAsset"
+      },
+      {
+        "uuid": "d929bc38-4ab6-7da4-94f0-ee84f8ac141e",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2022-03-01",
+        "endTime": "2022-04-26",
+        "parentUuid": "808202d6-4f2b-a8ff-1feb-b3a0590ad79f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode4_Act2_DataAsset"
+      },
+      {
+        "uuid": "3e47230a-463c-a301-eb7d-67bb60357d4f",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2022-04-26",
+        "endTime": "2022-06-21",
+        "parentUuid": "808202d6-4f2b-a8ff-1feb-b3a0590ad79f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode4_Act3_DataAsset"
+      },
+      {
+        "uuid": "808202d6-4f2b-a8ff-1feb-b3a0590ad79f",
+        "displayName": "EPISODE 4",
+        "title": null,
+        "type": null,
+        "startTime": "2022-01-11",
+        "endTime": "2022-06-21",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode4_DataAsset"
+      },
+      {
+        "uuid": "67e373c7-48f7-b422-641b-079ace30b427",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2022-06-21",
+        "endTime": "2022-08-23",
+        "parentUuid": "79f9d00f-433a-85d6-dfc3-60aef115e699",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode5_Act1_DataAsset"
+      },
+      {
+        "uuid": "7a85de9a-4032-61a9-61d8-f4aa2b4a84b6",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2022-08-23",
+        "endTime": "2022-10-18",
+        "parentUuid": "79f9d00f-433a-85d6-dfc3-60aef115e699",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode5_Act2_DataAsset"
+      },
+      {
+        "uuid": "aca29595-40e4-01f5-3f35-b1b3d304c96e",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2022-10-18",
+        "endTime": "2023-01-10",
+        "parentUuid": "79f9d00f-433a-85d6-dfc3-60aef115e699",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode5_Act3_DataAsset"
+      },
+      {
+        "uuid": "79f9d00f-433a-85d6-dfc3-60aef115e699",
+        "displayName": "EPISODE 5",
+        "title": null,
+        "type": null,
+        "startTime": "2022-06-21",
+        "endTime": "2023-01-10",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode5_DataAsset"
+      },
+      {
+        "uuid": "9c91a445-4f78-1baa-a3ea-8f8aadf4914d",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2023-01-10",
+        "endTime": "2023-03-07",
+        "parentUuid": "3ec8084a-4e45-4d22-d801-f8a63e5a208b",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode6_Act1_DataAsset"
+      },
+      {
+        "uuid": "34093c29-4306-43de-452f-3f944bde22be",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2023-03-07",
+        "endTime": "2023-04-25",
+        "parentUuid": "3ec8084a-4e45-4d22-d801-f8a63e5a208b",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode6_Act2_DataAsset"
+      },
+      {
+        "uuid": "2de5423b-4aad-02ad-8d9b-c0a931958861",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2023-04-25",
+        "endTime": "2023-06-27",
+        "parentUuid": "3ec8084a-4e45-4d22-d801-f8a63e5a208b",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode6_Act3_DataAsset"
+      },
+      {
+        "uuid": "3ec8084a-4e45-4d22-d801-f8a63e5a208b",
+        "displayName": "EPISODE 6",
+        "title": null,
+        "type": null,
+        "startTime": "2023-01-10",
+        "endTime": "2023-06-27",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode6_DataAsset"
+      },
+      {
+        "uuid": "0981a882-4e7d-371a-70c4-c3b4f46c504a",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2023-06-27",
+        "endTime": "2023-08-29",
+        "parentUuid": "1a2fc1de-4f58-4a89-49d0-f28b720ff76f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode7_Act1_DataAsset"
+      },
+      {
+        "uuid": "03dfd004-45d4-ebfd-ab0a-948ce780dac4",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2023-08-29",
+        "endTime": "2023-10-31",
+        "parentUuid": "1a2fc1de-4f58-4a89-49d0-f28b720ff76f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode7_Act2_DataAsset"
+      },
+      {
+        "uuid": "4401f9fd-4170-2e4c-4bc3-f3b4d7d150d1",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2023-10-31",
+        "endTime": "2024-01-09",
+        "parentUuid": "1a2fc1de-4f58-4a89-49d0-f28b720ff76f",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode7_Act3_DataAsset"
+      },
+      {
+        "uuid": "1a2fc1de-4f58-4a89-49d0-f28b720ff76f",
+        "displayName": "EPISODE 7",
+        "title": null,
+        "type": null,
+        "startTime": "2023-06-27",
+        "endTime": "2024-01-09",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode7_DataAsset"
+      },
+      {
+        "uuid": "ec876e6c-43e8-fa63-ffc1-2e8d4db25525",
+        "displayName": "ACT I",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2024-01-09",
+        "endTime": "2024-03-05",
+        "parentUuid": "843cc465-4f0a-7466-ccda-19a427f8e478",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode8_Act1_DataAsset"
+      },
+      {
+        "uuid": "22d10d66-4d2a-a340-6c54-408c7bd53807",
+        "displayName": "ACT II",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2024-03-05",
+        "endTime": "2024-04-30",
+        "parentUuid": "843cc465-4f0a-7466-ccda-19a427f8e478",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode8_Act2_DataAsset"
+      },
+      {
+        "uuid": "4539cac3-47ae-90e5-3d01-b3812ca3274e",
+        "displayName": "ACT III",
+        "title": "EPISODE 8 // ACT III",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2024-04-30",
+        "endTime": "2024-06-26",
+        "parentUuid": "843cc465-4f0a-7466-ccda-19a427f8e478",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode8_Act3_DataAsset"
+      },
+      {
+        "uuid": "843cc465-4f0a-7466-ccda-19a427f8e478",
+        "displayName": "EPISODE 8",
+        "title": "DEFIANCE",
+        "type": null,
+        "startTime": "2024-01-09",
+        "endTime": "2024-06-26",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode8_DataAsset"
+      },
+      {
+        "uuid": "52ca6698-41c1-e7de-4008-8994d2221209",
+        "displayName": "ACT I",
+        "title": "EPISODE 9 // ACT I",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2024-06-26",
+        "endTime": "2024-08-28",
+        "parentUuid": "d1ad9e7a-4e3f-e8c6-eb1b-148162a5acf7",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode9_Act1_DataAsset"
+      },
+      {
+        "uuid": "292f58db-4c17-89a7-b1c0-ba988f0e9d98",
+        "displayName": "ACT II",
+        "title": "EPISODE 9 // ACT II",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2024-08-28",
+        "endTime": "2024-10-23",
+        "parentUuid": "d1ad9e7a-4e3f-e8c6-eb1b-148162a5acf7",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode9_Act2_DataAsset"
+      },
+      {
+        "uuid": "dcde7346-4085-de4f-c463-2489ed47983b",
+        "displayName": "ACT III",
+        "title": "EPISODE 9 // ACT III",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2024-10-23",
+        "endTime": "2025-01-08",
+        "parentUuid": "d1ad9e7a-4e3f-e8c6-eb1b-148162a5acf7",
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode9_Act3_DataAsset"
+      },
+      {
+        "uuid": "d1ad9e7a-4e3f-e8c6-eb1b-148162a5acf7",
+        "displayName": "EPISODE 9",
+        "title": "COLLISION",
+        "type": null,
+        "startTime": "2024-06-26",
+        "endTime": "2025-01-08",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_Episode9_DataAsset"
+      },
+      {
+        "uuid": "476b0893-4c2e-abd6-c5fe-708facff0772",
+        "displayName": "ACT I",
+        "title": "V25 // ACT I",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2025-01-08",
+        "endTime": "2025-03-05",
+        "parentUuid": "439dd42d-4a59-9e41-b50b-1ebb6810f22c",
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-1_Act1_DataAsset"
+      },
+      {
+        "uuid": "16118998-4705-5813-86dd-0292a2439d90",
+        "displayName": "ACT II",
+        "title": "V25 // ACT II",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2025-03-05",
+        "endTime": "2025-04-30",
+        "parentUuid": "439dd42d-4a59-9e41-b50b-1ebb6810f22c",
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-1_Act2_DataAsset"
+      },
+      {
+        "uuid": "aef237a0-494d-3a14-a1c8-ec8de84e309c",
+        "displayName": "ACT III",
+        "title": null,
+        "type": "EAresSeasonType::Act",
+        "startTime": "2025-04-30",
+        "endTime": "2025-06-25",
+        "parentUuid": "439dd42d-4a59-9e41-b50b-1ebb6810f22c",
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-1_Act3_DataAsset"
+      },
+      {
+        "uuid": "439dd42d-4a59-9e41-b50b-1ebb6810f22c",
+        "displayName": "V25",
+        "title": null,
+        "type": null,
+        "startTime": "2025-01-08",
+        "endTime": "2025-06-25",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-1_DataAsset"
+      },
+      {
+        "uuid": "ac12e9b3-47e6-9599-8fa1-0bb473e5efc7",
+        "displayName": "ACT IV",
+        "title": "V25 // ACT IV",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2025-06-25",
+        "endTime": "2025-08-20",
+        "parentUuid": "c470d964-4bf4-1261-87aa-c484252f2d66",
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-2_Act4_DataAsset"
+      },
+      {
+        "uuid": "5adc33fa-4f30-2899-f131-6fba64c5dd3a",
+        "displayName": "ACT V",
+        "title": "V25 // ACT V",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2025-08-20",
+        "endTime": "2025-10-15",
+        "parentUuid": "c470d964-4bf4-1261-87aa-c484252f2d66",
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-2_Act5_DataAsset"
+      },
+      {
+        "uuid": "4c4b8cff-43eb-13d3-8f14-96b783c90cd2",
+        "displayName": "ACT VI",
+        "title": "V25 // ACT VI",
+        "type": "EAresSeasonType::Act",
+        "startTime": "2025-10-15",
+        "endTime": "2026-01-07",
+        "parentUuid": "c470d964-4bf4-1261-87aa-c484252f2d66",
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-2_Act6_DataAsset"
+      },
+      {
+        "uuid": "c470d964-4bf4-1261-87aa-c484252f2d66",
+        "displayName": "V25",
+        "title": null,
+        "type": null,
+        "startTime": "2025-06-25",
+        "endTime": "2026-01-07",
+        "parentUuid": null,
+        "assetPath": "ShooterGame/Content/Seasons/Season_EpisodeV25-2_DataAsset"
+      }
+    ]
+  }

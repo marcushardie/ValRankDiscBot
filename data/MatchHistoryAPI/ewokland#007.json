@@ -1,0 +1,2797 @@
+{
+    "5b2e0b40-0ae3-4663-a53c-1d11d3b06895": {
+        "match": {
+            "match_id": "5b2e0b40-0ae3-4663-a53c-1d11d3b06895",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.03-shipping-8-3266718",
+            "game_length_in_ms": 2258158,
+            "started_at": "2025-02-25T11:41:34.289Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "25038d9d-ab5b-476d-808c-d23e112cd530",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7a16ca7a-34d7-4187-a1d0-12ede2025bbc",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "263468d2-b0d4-46fb-9267-dd7e380c991f",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7283559a-bc83-43a8-a37c-4687b84af5b0",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 11,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 11
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "7283559a-bc83-43a8-a37c-4687b84af5b0",
+                "agent": {
+                    "id": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+                    "name": "Jett"
+                },
+                "stats": {
+                    "score": 7429,
+                    "kills": 27,
+                    "deaths": 19,
+                    "assists": 11,
+                    "headshots": 8,
+                    "bodyshots": 85,
+                    "legshots": 11,
+                    "damage": {
+                        "dealt": 4580,
+                        "received": 4036
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 18,
+                    "ability1": 4,
+                    "ability2": 13,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 219,
+                "session_playtime_in_ms": 3540000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 65700,
+                        "average": 2737.5
+                    },
+                    "loadout_value": {
+                        "overall": 84700,
+                        "average": 3529.1667
+                    }
+                }
+            }
+        }
+    },
+    "11109bc1-0a00-4574-b02f-11641459ef8b": {
+        "match": {
+            "match_id": "11109bc1-0a00-4574-b02f-11641459ef8b",
+            "map": {
+                "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+                "name": "Lotus"
+            },
+            "game_version": "release-10.03-shipping-8-3266718",
+            "game_length_in_ms": 1934122,
+            "started_at": "2025-02-25T11:02:45.576Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "6a84c3ef-83cd-4239-8ded-81266df1eced",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "25d76727-1e3e-442d-a651-4e03cb79273e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "539bb6c3-c389-465e-a258-ab33a39489cf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "5bd9a4a7-6235-4af2-9d88-42dd1fbab9d8",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "e784c019-5ab7-47aa-9fc4-d4986ed8d795",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7283559a-bc83-43a8-a37c-4687b84af5b0",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 7
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 7,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "7283559a-bc83-43a8-a37c-4687b84af5b0",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 5648,
+                    "kills": 20,
+                    "deaths": 13,
+                    "assists": 12,
+                    "headshots": 12,
+                    "bodyshots": 55,
+                    "legshots": 7,
+                    "damage": {
+                        "dealt": 3320,
+                        "received": 2851
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 15,
+                    "ability1": 25,
+                    "ability2": 17,
+                    "ultimate": 5
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 1200000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 1.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 55100,
+                        "average": 2755.0
+                    },
+                    "loadout_value": {
+                        "overall": 75600,
+                        "average": 3780.0
+                    }
+                }
+            }
+        }
+    },
+    "f5777229-fd63-4ae5-8db3-8eb5b592e51f": {
+        "match": {
+            "match_id": "f5777229-fd63-4ae5-8db3-8eb5b592e51f",
+            "map": {
+                "id": "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319",
+                "name": "Ascent"
+            },
+            "game_version": "release-10.03-shipping-8-3266718",
+            "game_length_in_ms": 647540,
+            "started_at": "2025-02-25T10:50:03.424Z",
+            "is_completed": true,
+            "queue": {
+                "id": "custom",
+                "name": "Custom Game",
+                "mode_type": "Deathmatch"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "rounds": {
+                    "won": 21,
+                    "lost": 0
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "eed4d328-adbd-571f-b83d-89c7723946ee",
+                "rounds": {
+                    "won": 11,
+                    "lost": 1
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "rounds": {
+                    "won": 4,
+                    "lost": 1
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "platform": "pc",
+                "party_id": "7283559a-bc83-43a8-a37c-4687b84af5b0",
+                "agent": {
+                    "id": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
+                    "name": "Astra"
+                },
+                "stats": {
+                    "score": 5218,
+                    "kills": 21,
+                    "deaths": 8,
+                    "assists": 4,
+                    "headshots": 0,
+                    "bodyshots": 0,
+                    "legshots": 0,
+                    "damage": {
+                        "dealt": 0,
+                        "received": 0
+                    }
+                },
+                "ability_casts": {
+                    "grenade": null,
+                    "ability1": null,
+                    "ability2": null,
+                    "ultimate": null
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 420000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0.0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0.0
+                    }
+                }
+            }
+        }
+    },
+    "bcb2a301-043e-4df7-97d7-49d3d6ce8784": {
+        "match": {
+            "match_id": "bcb2a301-043e-4df7-97d7-49d3d6ce8784",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.03-shipping-8-3266718",
+            "game_length_in_ms": 1963891,
+            "started_at": "2025-02-24T10:06:11.391Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "21985270-5785-43b4-a38f-2a28b5003ce9",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ddd90ae0-3c96-4872-a94e-e1d91cf81c47",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9adeaf9f-7b55-4e0c-babd-65d7aeee1db8",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "67ddee8e-4d8f-46b4-9fdd-76645003c663",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "befc5df1-798b-4fea-9e9a-6d3fefce5348",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "80119981-0b7e-4a15-bf9e-63f81c4d4a4c",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 7,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 7
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "80119981-0b7e-4a15-bf9e-63f81c4d4a4c",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 6920,
+                    "kills": 27,
+                    "deaths": 10,
+                    "assists": 5,
+                    "headshots": 14,
+                    "bodyshots": 69,
+                    "legshots": 12,
+                    "damage": {
+                        "dealt": 4297,
+                        "received": 2464
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 12,
+                    "ability1": 20,
+                    "ability2": 19,
+                    "ultimate": 5
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 300000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 45400,
+                        "average": 2270.0
+                    },
+                    "loadout_value": {
+                        "overall": 82150,
+                        "average": 4107.5
+                    }
+                }
+            }
+        }
+    },
+    "980829f6-4705-472c-9944-f470cf479f15": {
+        "match": {
+            "match_id": "980829f6-4705-472c-9944-f470cf479f15",
+            "map": {
+                "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+                "name": "Lotus"
+            },
+            "game_version": "release-10.03-shipping-8-3266718",
+            "game_length_in_ms": 2238896,
+            "started_at": "2025-02-23T11:12:42.087Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "f0365146-fe33-4c38-b87d-2bb9946ac926",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "feeed556-4019-4ca4-bf6f-b7aa3d3a269d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "8166a2a0-3b8b-4aa3-8bca-160ac38c9e27",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3c804ea1-bcc8-4b4e-b407-532291580cff",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "38e4d6a1-40fe-43bc-9b60-a017d71f74fe",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c8410a28-2c9a-4af9-b487-0abba40837c4",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "259e5155-38aa-463f-812f-8b66c99b5e65",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 11,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 11
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "f0365146-fe33-4c38-b87d-2bb9946ac926",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 5570,
+                    "kills": 20,
+                    "deaths": 16,
+                    "assists": 6,
+                    "headshots": 8,
+                    "bodyshots": 66,
+                    "legshots": 7,
+                    "damage": {
+                        "dealt": 3467,
+                        "received": 3092
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 12,
+                    "ability1": 14,
+                    "ability2": 8,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 2340000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 64300,
+                        "average": 2679.1667
+                    },
+                    "loadout_value": {
+                        "overall": 99950,
+                        "average": 4164.5835
+                    }
+                }
+            }
+        }
+    },
+    "cb826e75-9968-445b-8234-b3473dc7d405": {
+        "match": {
+            "match_id": "cb826e75-9968-445b-8234-b3473dc7d405",
+            "map": {
+                "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+                "name": "Abyss"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2369051,
+            "started_at": "2025-02-18T10:25:41.761Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "c4bb8ed7-bfa7-42c4-b6a9-81c6be9aafc2",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "21f847af-9377-4641-8c20-5b2e6546a38b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "2f57a2f5-aa95-4384-8c04-a30ac6fc3bb3",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "07b450ec-964c-4b9b-b62f-407c4b9ef373",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "0a6ec771-e21c-4bf3-b578-f58b0ef9007e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "b1b99fa4-5b4d-49cb-93f6-3341f418336b",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 11,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 11
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "b1b99fa4-5b4d-49cb-93f6-3341f418336b",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 4886,
+                    "kills": 16,
+                    "deaths": 17,
+                    "assists": 10,
+                    "headshots": 7,
+                    "bodyshots": 71,
+                    "legshots": 3,
+                    "damage": {
+                        "dealt": 2936,
+                        "received": 3566
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 12,
+                    "ability1": 20,
+                    "ability2": 13,
+                    "ultimate": 4
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 3840000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 58200,
+                        "average": 2425.0
+                    },
+                    "loadout_value": {
+                        "overall": 86050,
+                        "average": 3585.4167
+                    }
+                }
+            }
+        }
+    },
+    "372d8b79-e314-482b-8618-53579002e285": {
+        "match": {
+            "match_id": "372d8b79-e314-482b-8618-53579002e285",
+            "map": {
+                "id": "d960549e-485c-e861-8d71-aa9d1aed12a2",
+                "name": "Split"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1611403,
+            "started_at": "2025-02-18T09:56:13.865Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "12590984-a0bd-4cbd-ad08-91705cc84c1e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d0a906d0-5813-4c48-8981-e9b7fa537f07",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "b1b99fa4-5b4d-49cb-93f6-3341f418336b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ebe37f3d-3947-4127-bf40-1267e0031c28",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "8ccf6a6e-349e-4784-b694-10189a99327d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bc0f1519-4106-4da3-a9c6-4f9a3cc44563",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 5,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 5
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "b1b99fa4-5b4d-49cb-93f6-3341f418336b",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 4950,
+                    "kills": 16,
+                    "deaths": 15,
+                    "assists": 7,
+                    "headshots": 10,
+                    "bodyshots": 45,
+                    "legshots": 11,
+                    "damage": {
+                        "dealt": 3083,
+                        "received": 3006
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 11,
+                    "ability1": 17,
+                    "ability2": 11,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 2040000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 44300,
+                        "average": 2461.111
+                    },
+                    "loadout_value": {
+                        "overall": 61900,
+                        "average": 3438.889
+                    }
+                }
+            }
+        }
+    },
+    "c30186a0-f766-47d2-8ebd-c313ca131439": {
+        "match": {
+            "match_id": "c30186a0-f766-47d2-8ebd-c313ca131439",
+            "map": {
+                "id": "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319",
+                "name": "Ascent"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 572539,
+            "started_at": "2025-02-18T09:37:42.367Z",
+            "is_completed": true,
+            "queue": {
+                "id": "custom",
+                "name": "Custom Game",
+                "mode_type": "Deathmatch"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "rounds": {
+                    "won": 33,
+                    "lost": 8
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "928bb69c-1437-52c1-b32e-8629bd5d557b",
+                "rounds": {
+                    "won": 8,
+                    "lost": 33
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "platform": "pc",
+                "party_id": "b1b99fa4-5b4d-49cb-93f6-3341f418336b",
+                "agent": {
+                    "id": "707eab51-4836-f488-046a-cda6bf494859",
+                    "name": "Viper"
+                },
+                "stats": {
+                    "score": 7620,
+                    "kills": 33,
+                    "deaths": 8,
+                    "assists": 0,
+                    "headshots": 0,
+                    "bodyshots": 0,
+                    "legshots": 0,
+                    "damage": {
+                        "dealt": 0,
+                        "received": 0
+                    }
+                },
+                "ability_casts": {
+                    "grenade": null,
+                    "ability1": null,
+                    "ability2": null,
+                    "ultimate": null
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 960000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0.0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0.0
+                    }
+                }
+            }
+        }
+    },
+    "28f80c13-6634-4e86-bd45-21bd88606a7f": {
+        "match": {
+            "match_id": "28f80c13-6634-4e86-bd45-21bd88606a7f",
+            "map": {
+                "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+                "name": "Lotus"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2089149,
+            "started_at": "2025-02-16T11:30:41.945Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "4254ad51-2d4b-42fd-b92c-489c49e459fe",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "04451b76-b010-4cc2-b8ab-eb5840caf621",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "012d2bf2-e471-4fd0-85e1-957ce14dfd37",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fb22ca5e-f28c-4561-8af8-5f405f048e35",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "68e8550e-acd1-4545-a37e-66bb9d39c2eb",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 11
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 11,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "012d2bf2-e471-4fd0-85e1-957ce14dfd37",
+                "agent": {
+                    "id": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+                    "name": "Deadlock"
+                },
+                "stats": {
+                    "score": 3423,
+                    "kills": 13,
+                    "deaths": 18,
+                    "assists": 2,
+                    "headshots": 8,
+                    "bodyshots": 30,
+                    "legshots": 6,
+                    "damage": {
+                        "dealt": 2213,
+                        "received": 3442
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 11,
+                    "ability1": 13,
+                    "ability2": 7,
+                    "ultimate": 4
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 218,
+                "session_playtime_in_ms": 5520000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 66100,
+                        "average": 2754.1667
+                    },
+                    "loadout_value": {
+                        "overall": 83100,
+                        "average": 3462.5
+                    }
+                }
+            }
+        }
+    },
+    "689acb86-9429-4e4f-9ea8-cabb32218d8e": {
+        "match": {
+            "match_id": "689acb86-9429-4e4f-9ea8-cabb32218d8e",
+            "map": {
+                "id": "b529448b-4d60-346e-e89e-00a4c527a405",
+                "name": "Fracture"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1759157,
+            "started_at": "2025-02-16T10:56:35.6Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "012d2bf2-e471-4fd0-85e1-957ce14dfd37",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "2602f639-f74c-4070-86e7-bd4a05d08bc5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "166ec9a0-6b88-40c7-809e-ced70fa9fd4a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "cd274476-f5fc-401b-b45f-08b14f2df187",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f7c6000a-691a-4e41-9f4d-bf99bfd77d3b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ae0e1c58-e7d9-40f6-b247-a1058fda7321",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 6,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 6
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "012d2bf2-e471-4fd0-85e1-957ce14dfd37",
+                "agent": {
+                    "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+                    "name": "Cypher"
+                },
+                "stats": {
+                    "score": 4045,
+                    "kills": 14,
+                    "deaths": 13,
+                    "assists": 7,
+                    "headshots": 9,
+                    "bodyshots": 43,
+                    "legshots": 14,
+                    "damage": {
+                        "dealt": 2601,
+                        "received": 2211
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 15,
+                    "ability1": 15,
+                    "ability2": 9,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 217,
+                "session_playtime_in_ms": 3480000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 50250,
+                        "average": 2644.7368
+                    },
+                    "loadout_value": {
+                        "overall": 66700,
+                        "average": 3510.5264
+                    }
+                }
+            }
+        }
+    },
+    "557d338a-5789-482f-9043-e53b884d813c": {
+        "match": {
+            "match_id": "557d338a-5789-482f-9043-e53b884d813c",
+            "map": {
+                "id": "d960549e-485c-e861-8d71-aa9d1aed12a2",
+                "name": "Split"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1781211,
+            "started_at": "2025-02-10T11:09:58.629Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "9b343af6-bbdd-4f83-8f65-bfd8966c4e3c",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7106a938-ee4a-480e-94ca-075f1cdf2c33",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "52d311eb-eb8a-4dab-87d3-56bb439cb0cf",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 5
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 5,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "52d311eb-eb8a-4dab-87d3-56bb439cb0cf",
+                "agent": {
+                    "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+                    "name": "Cypher"
+                },
+                "stats": {
+                    "score": 6141,
+                    "kills": 20,
+                    "deaths": 13,
+                    "assists": 3,
+                    "headshots": 10,
+                    "bodyshots": 81,
+                    "legshots": 10,
+                    "damage": {
+                        "dealt": 3590,
+                        "received": 2653
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 24,
+                    "ability1": 27,
+                    "ability2": 8,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 217,
+                "session_playtime_in_ms": 7020000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 42200,
+                        "average": 2344.4443
+                    },
+                    "loadout_value": {
+                        "overall": 54500,
+                        "average": 3027.7778
+                    }
+                }
+            }
+        }
+    },
+    "f5d6b6cc-7016-4b2b-8bed-23f394475eec": {
+        "match": {
+            "match_id": "f5d6b6cc-7016-4b2b-8bed-23f394475eec",
+            "map": {
+                "id": "b529448b-4d60-346e-e89e-00a4c527a405",
+                "name": "Fracture"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1371825,
+            "started_at": "2025-02-10T09:44:28.725Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "7524a3b1-1c6d-46e4-aaaa-6bbeca154f41",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1e433f21-f451-4a07-8580-d2161ac66a09",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ceb2a679-515f-4a8b-80ee-dd0fe3d91eb8",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "4f77dff1-d858-4fed-9d07-4f2c9dd6d83a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "b03b8f52-2126-4e73-b363-353564596627",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "02fcec66-7cef-439a-bcab-7867ec3801a2",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "a3d964b1-e9ef-4476-bfa8-d3098370243f",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 2
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 2,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "ceb2a679-515f-4a8b-80ee-dd0fe3d91eb8",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 4981,
+                    "kills": 18,
+                    "deaths": 8,
+                    "assists": 10,
+                    "headshots": 5,
+                    "bodyshots": 58,
+                    "legshots": 12,
+                    "damage": {
+                        "dealt": 2702,
+                        "received": 1813
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 10,
+                    "ability1": 12,
+                    "ability2": 5,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 217,
+                "session_playtime_in_ms": 1920000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 31050,
+                        "average": 2070.0
+                    },
+                    "loadout_value": {
+                        "overall": 57800,
+                        "average": 3853.3333
+                    }
+                }
+            }
+        }
+    },
+    "30a71010-7a8c-42d5-b2fa-94ae7852ead5": {
+        "match": {
+            "match_id": "30a71010-7a8c-42d5-b2fa-94ae7852ead5",
+            "map": {
+                "id": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+                "name": "Pearl"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2893223,
+            "started_at": "2025-02-09T11:53:51.326Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "9ee877fc-b8e5-44a1-8094-7a3bac2494bf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c0d19b45-0a09-4b59-b299-669a2f29f3de",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bc8f3e1d-2266-47a2-a6ea-1d1ce0f6cad6",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bfb51e9d-cb19-4141-b754-1890692d5859",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ffdae8b4-4698-41bf-8874-8ce0d2cd703b",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 15,
+                    "lost": 13
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 15
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 5912,
+                    "kills": 22,
+                    "deaths": 15,
+                    "assists": 4,
+                    "headshots": 8,
+                    "bodyshots": 74,
+                    "legshots": 11,
+                    "damage": {
+                        "dealt": 3882,
+                        "received": 3339
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 23,
+                    "ability1": 26,
+                    "ability2": 20,
+                    "ultimate": 4
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 3060000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 75850,
+                        "average": 2708.9285
+                    },
+                    "loadout_value": {
+                        "overall": 114600,
+                        "average": 4092.8572
+                    }
+                }
+            }
+        }
+    },
+    "6a6fc6ff-ed70-4a0c-8d0d-058f97b8a3cb": {
+        "match": {
+            "match_id": "6a6fc6ff-ed70-4a0c-8d0d-058f97b8a3cb",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2297076,
+            "started_at": "2025-02-09T11:07:14.494Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "fe96540b-b716-49bf-8b26-847233c78dd8",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "91e655f5-f774-49db-b8e6-57c8f453b3f1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "a856da07-f5bb-439e-af5e-c399134ceb50",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3c20b8c1-0ff4-4899-a3eb-7f83b66efc70",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "88fff7dd-d3b1-4f94-8994-e937619382be",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 10
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 10,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "bb196f84-1580-4740-8529-2f6abea6e7bf",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 6398,
+                    "kills": 23,
+                    "deaths": 17,
+                    "assists": 5,
+                    "headshots": 11,
+                    "bodyshots": 68,
+                    "legshots": 7,
+                    "damage": {
+                        "dealt": 3797,
+                        "received": 3469
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 12,
+                    "ability1": 13,
+                    "ability2": 21,
+                    "ultimate": 4
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 300000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 60150,
+                        "average": 2615.2173
+                    },
+                    "loadout_value": {
+                        "overall": 89850,
+                        "average": 3906.5217
+                    }
+                }
+            }
+        }
+    },
+    "9a9ac107-65e2-491a-bfa1-510a269d0808": {
+        "match": {
+            "match_id": "9a9ac107-65e2-491a-bfa1-510a269d0808",
+            "map": {
+                "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+                "name": "Haven"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2167505,
+            "started_at": "2025-02-08T10:48:37.779Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "cf0e2ab6-e546-446e-8512-883e72e46541",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "84173de0-1909-4c97-96b3-c4f9ef6b793b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "35b0b890-e006-4bc5-aa36-7903c1d4180d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "48079963-8540-4f97-8bc1-503f24fea234",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c423fb2e-a96d-444f-b5ba-993aecf8bba5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 9
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 9,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 6595,
+                    "kills": 22,
+                    "deaths": 18,
+                    "assists": 5,
+                    "headshots": 12,
+                    "bodyshots": 70,
+                    "legshots": 16,
+                    "damage": {
+                        "dealt": 4067,
+                        "received": 3240
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 14,
+                    "ability1": 23,
+                    "ability2": 23,
+                    "ultimate": 5
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 4800000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 63050,
+                        "average": 2865.9092
+                    },
+                    "loadout_value": {
+                        "overall": 82450,
+                        "average": 3747.7273
+                    }
+                }
+            }
+        }
+    },
+    "e605fb6d-6efe-4c7a-b92b-ba44a476d777": {
+        "match": {
+            "match_id": "e605fb6d-6efe-4c7a-b92b-ba44a476d777",
+            "map": {
+                "id": "b529448b-4d60-346e-e89e-00a4c527a405",
+                "name": "Fracture"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1907735,
+            "started_at": "2025-02-08T10:10:31.128Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "099ff096-e962-4f04-9fe6-7d874255413a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "cfd08bdf-e76e-4bc3-9aca-4538dd774867",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "329c305e-3545-4737-83e3-4c62a73e9304",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "da001fa5-91e0-437b-b070-b842d3d20bb1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "278bf659-e655-4ffa-bb1c-548786ca2a24",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1d90e66c-4f1e-4299-bb53-a601c4ce5af7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 8
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 8,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                "agent": {
+                    "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+                    "name": "Cypher"
+                },
+                "stats": {
+                    "score": 6615,
+                    "kills": 23,
+                    "deaths": 15,
+                    "assists": 4,
+                    "headshots": 7,
+                    "bodyshots": 82,
+                    "legshots": 10,
+                    "damage": {
+                        "dealt": 3668,
+                        "received": 3050
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 26,
+                    "ability1": 31,
+                    "ability2": 14,
+                    "ultimate": 4
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 2520000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 58000,
+                        "average": 2761.9048
+                    },
+                    "loadout_value": {
+                        "overall": 70600,
+                        "average": 3361.9048
+                    }
+                }
+            }
+        }
+    },
+    "d3c9cc8b-f082-4337-8d41-db1e75bfff4c": {
+        "match": {
+            "match_id": "d3c9cc8b-f082-4337-8d41-db1e75bfff4c",
+            "map": {
+                "id": "fd267378-4d1d-484f-ff52-77821ed10dc2",
+                "name": "Pearl"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2010450,
+            "started_at": "2025-02-08T09:32:29.581Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "2f43be7c-6b39-4314-94ca-a70b70ac8fd5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "88477c10-9816-4d26-9594-4ba5e8bb0d18",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ab09450e-f624-456f-8e99-eea7c9cfc7d4",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7fd865ed-cac9-4e90-b958-fc9bddce17c7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "d072f08c-4c0d-4bbe-aabb-f467e629365d",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 9,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 9
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "aaf87d8c-f984-4419-8784-8bc8cbdf6f8b",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 4975,
+                    "kills": 16,
+                    "deaths": 14,
+                    "assists": 7,
+                    "headshots": 6,
+                    "bodyshots": 57,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 3066,
+                        "received": 2699
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 16,
+                    "ability1": 20,
+                    "ability2": 22,
+                    "ultimate": 4
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 240000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 57850,
+                        "average": 2629.5454
+                    },
+                    "loadout_value": {
+                        "overall": 86200,
+                        "average": 3918.182
+                    }
+                }
+            }
+        }
+    },
+    "723c23ac-5e6e-4b65-8261-e102dbf7d972": {
+        "match": {
+            "match_id": "723c23ac-5e6e-4b65-8261-e102dbf7d972",
+            "map": {
+                "id": "2c9d57ec-4431-9c5e-2939-8f9ef6dd5cba",
+                "name": "Bind"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2141404,
+            "started_at": "2025-02-07T11:20:08.064Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "a8afcef8-6edf-4197-bda0-f3a570e53491",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "86d8954d-b202-44b3-819b-a2a1705e4bf9",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "fb51bf64-b8e4-45e9-ae9c-5de535607e0a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "01d8dd81-1847-4943-bf04-beaf4e1adabe",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "a8afcef8-6edf-4197-bda0-f3a570e53491",
+                "agent": {
+                    "id": "601dbbe7-43ce-be57-2a40-4abd24953621",
+                    "name": "KAY/O"
+                },
+                "stats": {
+                    "score": 5727,
+                    "kills": 18,
+                    "deaths": 16,
+                    "assists": 9,
+                    "headshots": 11,
+                    "bodyshots": 63,
+                    "legshots": 7,
+                    "damage": {
+                        "dealt": 3400,
+                        "received": 3076
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 8,
+                    "ability1": 17,
+                    "ability2": 28,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 720000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 53900,
+                        "average": 2450.0
+                    },
+                    "loadout_value": {
+                        "overall": 80100,
+                        "average": 3640.9092
+                    }
+                }
+            }
+        }
+    },
+    "12defba8-944c-47b6-9189-f3af5c23e41a": {
+        "match": {
+            "match_id": "12defba8-944c-47b6-9189-f3af5c23e41a",
+            "map": {
+                "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+                "name": "Haven"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1639612,
+            "started_at": "2025-02-05T12:03:21.23Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "94b66b04-8e7a-4f40-9925-e933774929de",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "da76bead-5e11-4876-97eb-70eb7553a024",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "cf00d0e5-85ce-445a-a275-dd711cba2cba",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "89ae9a39-5c91-4fc7-b2cf-f624ad9f70e5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "c18a933f-807f-4925-b1ae-e07ffc9558f7",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "e2c1ba06-5fa2-41cf-bc14-7d50f2807196",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                "agent": {
+                    "id": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+                    "name": "Cypher"
+                },
+                "stats": {
+                    "score": 4360,
+                    "kills": 15,
+                    "deaths": 10,
+                    "assists": 6,
+                    "headshots": 6,
+                    "bodyshots": 47,
+                    "legshots": 3,
+                    "damage": {
+                        "dealt": 2486,
+                        "received": 1984
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 24,
+                    "ability1": 26,
+                    "ability2": 15,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 6780000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 39550,
+                        "average": 2081.5789
+                    },
+                    "loadout_value": {
+                        "overall": 68300,
+                        "average": 3594.7368
+                    }
+                }
+            }
+        }
+    },
+    "60a33749-f595-4a6a-9a72-06c8b737ec18": {
+        "match": {
+            "match_id": "60a33749-f595-4a6a-9a72-06c8b737ec18",
+            "map": {
+                "id": "2bee0dc9-4ffe-519b-1cbd-7fbe763a6047",
+                "name": "Haven"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 2014311,
+            "started_at": "2025-02-05T11:18:31.4Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "64612a1c-a3b3-4b62-baee-ec435f445d55",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7098a6dc-c2b7-4349-94e9-490c2b29fd36",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "71a78d07-e0c8-47a6-8c30-a2a3e85bfb6e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1258e4ae-9388-4cf6-93b1-8859e6dd30a6",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "6f21804a-c682-4480-bbd9-e5be5a97b46b",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                "agent": {
+                    "id": "569fdd95-4d10-43ab-ca70-79becc718b46",
+                    "name": "Sage"
+                },
+                "stats": {
+                    "score": 4170,
+                    "kills": 14,
+                    "deaths": 19,
+                    "assists": 8,
+                    "headshots": 6,
+                    "bodyshots": 51,
+                    "legshots": 5,
+                    "damage": {
+                        "dealt": 2507,
+                        "received": 3947
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 15,
+                    "ability1": 13,
+                    "ability2": 6,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 4080000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 62450,
+                        "average": 2973.8096
+                    },
+                    "loadout_value": {
+                        "overall": 74950,
+                        "average": 3569.0476
+                    }
+                }
+            }
+        }
+    },
+    "b8a13195-4266-4d59-bbbd-8964453fa62b": {
+        "match": {
+            "match_id": "b8a13195-4266-4d59-bbbd-8964453fa62b",
+            "map": {
+                "id": "224b0a95-48b9-f703-1bd8-67aca101a61f",
+                "name": "Abyss"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1478775,
+            "started_at": "2025-02-05T10:51:32.972Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "1258e4ae-9388-4cf6-93b1-8859e6dd30a6",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ceffa9b6-2f53-463b-bcc8-92030c9c5558",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "5cdafd8c-e8e1-4e1e-b62d-5b9dd464b9a2",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ddf1568c-43c1-4ce2-b65b-84d213135b6c",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ada415e8-91a2-4108-9b3f-7c098a51de9e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "333efa67-e317-4f59-9a98-7d22d360a15e",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 3538,
+                    "kills": 12,
+                    "deaths": 12,
+                    "assists": 2,
+                    "headshots": 6,
+                    "bodyshots": 37,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 2309,
+                        "received": 2130
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 13,
+                    "ability1": 11,
+                    "ability2": 13,
+                    "ultimate": 2
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 216,
+                "session_playtime_in_ms": 2460000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 36400,
+                        "average": 2426.6667
+                    },
+                    "loadout_value": {
+                        "overall": 48100,
+                        "average": 3206.6667
+                    }
+                }
+            }
+        }
+    },
+    "c1343ec3-a845-43e0-8880-9555317bb59f": {
+        "match": {
+            "match_id": "c1343ec3-a845-43e0-8880-9555317bb59f",
+            "map": {
+                "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+                "name": "Lotus"
+            },
+            "game_version": "release-10.02-shipping-2-3208409",
+            "game_length_in_ms": 1305995,
+            "started_at": "2025-02-05T10:24:24.681Z",
+            "is_completed": true,
+            "queue": {
+                "id": "competitive",
+                "name": "Competitive",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
+                "short": "e10a1"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "6b5be4d8-4740-4a1d-891c-dc7e19271473",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "eef81599-54d1-4dfe-bedc-d6b0d149332e",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "a292bb6a-40d3-49bb-b16e-637fa720e656",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "1917c7e0-0ddf-488d-b36c-acb2c8233141",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "7dfedb70-7f76-4476-90e6-120cbb1498d0",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "eb4fea88-443f-496f-a72a-4ed0db21647d",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 4506,
+                    "kills": 15,
+                    "deaths": 10,
+                    "assists": 7,
+                    "headshots": 8,
+                    "bodyshots": 46,
+                    "legshots": 3,
+                    "damage": {
+                        "dealt": 2805,
+                        "received": 2146
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 10,
+                    "ability1": 12,
+                    "ability2": 10,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 11,
+                    "name": "Silver 3"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "bd1082ab-462c-3fb8-e049-28a9750acf0f"
+                },
+                "account_level": 215,
+                "session_playtime_in_ms": 840000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 40300,
+                        "average": 3100.0
+                    },
+                    "loadout_value": {
+                        "overall": 54350,
+                        "average": 4180.769
+                    }
+                }
+            }
+        }
+    }
+}
