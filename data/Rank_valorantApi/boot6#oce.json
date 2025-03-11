@@ -15,7 +15,8 @@
             "tier": {
                 "id": 7,
                 "name": "Bronze 2"
-            }
+            },
+            "rr": 86
         },
         "current": {
             "tier": {
@@ -25,7 +26,8 @@
             "rr": 59,
             "last_change": -15,
             "elo": 259,
-            "games_needed_for_rating": 0,
+            "games_needed_for_rating": 1,
+            "rank_protection_shields": 2,
             "leaderboard_placement": null
         },
         "seasonal": [
@@ -40,6 +42,7 @@
                     "id": 6,
                     "name": "Bronze 1"
                 },
+                "end_rr": 86,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -152,6 +155,7 @@
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 0,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -236,6 +240,7 @@
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 55,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -316,6 +321,7 @@
                     "id": 5,
                     "name": "Iron 3"
                 },
+                "end_rr": 59,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [

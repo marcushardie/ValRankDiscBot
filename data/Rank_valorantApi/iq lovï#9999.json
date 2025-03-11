@@ -15,17 +15,19 @@
             "tier": {
                 "id": 13,
                 "name": "Gold 2"
-            }
+            },
+            "rr": 42
         },
         "current": {
             "tier": {
                 "id": 10,
                 "name": "Silver 2"
             },
-            "rr": 41,
-            "last_change": -19,
-            "elo": 741,
+            "rr": 18,
+            "last_change": -23,
+            "elo": 718,
             "games_needed_for_rating": 0,
+            "rank_protection_shields": 2,
             "leaderboard_placement": null
         },
         "seasonal": [
@@ -40,6 +42,7 @@
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 767,
                 "ranking_schema": "base",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -64,6 +67,7 @@
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 50,
                 "ranking_schema": "base",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -92,6 +96,7 @@
                     "id": 8,
                     "name": "Bronze 3"
                 },
+                "end_rr": 0,
                 "ranking_schema": "base",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -152,6 +157,7 @@
                     "id": 10,
                     "name": "Silver 2"
                 },
+                "end_rr": 82,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -316,6 +322,7 @@
                     "id": 10,
                     "name": "Silver 2"
                 },
+                "end_rr": 53,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -344,6 +351,7 @@
                     "id": 10,
                     "name": "Silver 2"
                 },
+                "end_rr": 79,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -464,6 +472,7 @@
                     "id": 11,
                     "name": "Silver 3"
                 },
+                "end_rr": 60,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -616,6 +625,7 @@
                     "id": 10,
                     "name": "Silver 2"
                 },
+                "end_rr": 0,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -656,6 +666,7 @@
                     "id": 9,
                     "name": "Silver 1"
                 },
+                "end_rr": 72,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -676,6 +687,7 @@
                     "id": 13,
                     "name": "Gold 2"
                 },
+                "end_rr": 42,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -792,6 +804,7 @@
                     "id": 10,
                     "name": "Silver 2"
                 },
+                "end_rr": 41,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [

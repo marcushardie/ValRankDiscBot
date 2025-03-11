@@ -15,17 +15,19 @@
             "tier": {
                 "id": 10,
                 "name": "Silver 2"
-            }
+            },
+            "rr": 7
         },
         "current": {
             "tier": {
-                "id": 7,
-                "name": "Bronze 2"
+                "id": 8,
+                "name": "Bronze 3"
             },
-            "rr": 63,
-            "last_change": 25,
-            "elo": 463,
+            "rr": 38,
+            "last_change": -17,
+            "elo": 538,
             "games_needed_for_rating": 0,
+            "rank_protection_shields": 2,
             "leaderboard_placement": null
         },
         "seasonal": [
@@ -40,6 +42,7 @@
                     "id": 0,
                     "name": "Unrated"
                 },
+                "end_rr": 0,
                 "ranking_schema": "base",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -64,6 +67,7 @@
                     "id": 9,
                     "name": "Silver 1"
                 },
+                "end_rr": 7,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -204,6 +208,7 @@
                     "id": 10,
                     "name": "Silver 2"
                 },
+                "end_rr": 7,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -308,6 +313,7 @@
                     "id": 10,
                     "name": "Silver 2"
                 },
+                "end_rr": 10,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -500,6 +506,7 @@
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 59,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -560,6 +567,7 @@
                     "id": 8,
                     "name": "Bronze 3"
                 },
+                "end_rr": 13,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -612,6 +620,7 @@
                     "id": 6,
                     "name": "Bronze 1"
                 },
+                "end_rr": 76,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -668,6 +677,7 @@
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 0,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -688,6 +698,7 @@
                     "id": 8,
                     "name": "Bronze 3"
                 },
+                "end_rr": 19,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -796,6 +807,7 @@
                     "id": 8,
                     "name": "Bronze 3"
                 },
+                "end_rr": 67,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -944,6 +956,7 @@
                     "id": 8,
                     "name": "Bronze 3"
                 },
+                "end_rr": 76,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -972,6 +985,7 @@
                     "id": 8,
                     "name": "Bronze 3"
                 },
+                "end_rr": 10,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -1064,6 +1078,7 @@
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 58,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -1144,6 +1159,7 @@
                     "id": 8,
                     "name": "Bronze 3"
                 },
+                "end_rr": 42,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -1226,12 +1242,13 @@
                     "id": "476b0893-4c2e-abd6-c5fe-708facff0772",
                     "short": "e10a1"
                 },
-                "wins": 10,
-                "games": 24,
+                "wins": 14,
+                "games": 31,
                 "end_tier": {
                     "id": 7,
                     "name": "Bronze 2"
                 },
+                "end_rr": 96,
                 "ranking_schema": "ascendant",
                 "leaderboard_placement": null,
                 "act_wins": [
@@ -1276,8 +1293,53 @@
                         "name": "Bronze 2"
                     },
                     {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
+                        "id": 7,
+                        "name": "Bronze 2"
+                    },
+                    {
                         "id": 0,
                         "name": "Unrated"
+                    }
+                ]
+            },
+            {
+                "season": {
+                    "id": "16118998-4705-5813-86dd-0292a2439d90",
+                    "short": "e10a2"
+                },
+                "wins": 3,
+                "games": 4,
+                "end_tier": {
+                    "id": 8,
+                    "name": "Bronze 3"
+                },
+                "end_rr": 38,
+                "ranking_schema": "ascendant",
+                "leaderboard_placement": null,
+                "act_wins": [
+                    {
+                        "id": 8,
+                        "name": "Bronze 3"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Bronze 3"
+                    },
+                    {
+                        "id": 8,
+                        "name": "Bronze 3"
                     }
                 ]
             }

@@ -152,7 +152,16 @@ class match(commands.Cog):
         self.bot = bot
 
     @app_commands.command(name="match_update", description="Get player's match history")
-    async def match_update(self, interaction:discord.Interaction, player:str='ewokland#007'):
+    @app_commands.choices(player=[
+        app_commands.Choice(name="ewokland#007", value="ewokland#007"),
+        app_commands.Choice(name="thesouthtowerr#nyc", value="thesouthtowerr#nyc"),
+        app_commands.Choice(name="iq lovï#9999", value="iq lovï#9999"),
+        app_commands.Choice(name="asi4n cr34m p13#acpie", value="asi4n cr34m p13#acpie"),
+        app_commands.Choice(name="twxlxght#985", value="twxlxght#985"),
+        app_commands.Choice(name="boot6#oce", value="boot6#oce"),
+        ])
+
+    async def match_update(self, interaction:discord.Interaction, player:str):
         logger.info(f"UPDATE MATCH : {player} : -- RUN --")
         await interaction.response.defer()
         msg = await interaction.original_response()
