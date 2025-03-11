@@ -128,7 +128,7 @@ def Single_ValMatch_API_update(p_in):
 
                         if p_in == plyr.lower():
                             match.update({'player':{p_in:{}}})
-                            plyr = match['player'][plyr]
+                            plyr = match['player'][p_in]
                             plyr.update(pData)
                             
                             fileName:str = f'data/MatchHistoryAPI/{p_in}.json'
