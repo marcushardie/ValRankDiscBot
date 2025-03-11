@@ -87,13 +87,13 @@ def PlayerMatchData(player:str, matchType:str = "Competitive"):
         #Turn this into embed pages on discord
         resp_pg1+= '\n' + f'{i+1} : {mStart.strftime("%d-%m-%y %H:%M")} : {mMap.ljust(10)}  : {pRoundWL.ljust(20)} :  {pWon.ljust(5)} : {pAgent.ljust(10)} : K/D/A {pKDA}'
         resp_pg2+= '\n' + f'{i+1} : Score {pScore} : Damage Dealt {pDmg} : Head Shots {pHeadShot_Perc}%'
-        resp_pg3+= '\n' + f'{i+1} : {pAbilityAll}'
+        # resp_pg3+= '\n' + f'{i+1} : {pAbilityAll}'
         resp_pg4+= '\n' + f'{i+1} : {pBehavior}'
 
     ret.update({
                 'Matches':resp_pg1,
                 'Stats':resp_pg2,
-                'Ability Cast':resp_pg3,
+                # 'Ability Cast':resp_pg3,
                 'Behaviour':resp_pg4
                 })
     return ret
@@ -156,7 +156,7 @@ class match(commands.Cog):
         app_commands.Choice(name="ewokland#007", value="ewokland#007"),
         app_commands.Choice(name="thesouthtowerr#nyc", value="thesouthtowerr#nyc"),
         app_commands.Choice(name="iq lovï#9999", value="iq lovï#9999"),
-        app_commands.Choice(name="asi4n cr34m p13#acpie", value="asi4n cr34m p13#acpie"),
+        app_commands.Choice(name="A2ndPlaneHasHi7#acpie", value="A2ndPlaneHasHi7#acpie"),
         app_commands.Choice(name="twxlxght#985", value="twxlxght#985"),
         app_commands.Choice(name="boot6#oce", value="boot6#oce"),
         ])

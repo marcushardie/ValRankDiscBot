@@ -1,4 +1,756 @@
 {
+    "70fb9497-fc0f-4cef-a5d1-634318c7942f": {
+        "match": {
+            "match_id": "70fb9497-fc0f-4cef-a5d1-634318c7942f",
+            "map": {
+                "id": "2fe4ed3a-450a-948b-6d6b-e89a78e680a9",
+                "name": "Lotus"
+            },
+            "game_version": "release-10.04-shipping-7-3283852",
+            "game_length_in_ms": 2463362,
+            "started_at": "2025-03-10T11:22:09.282Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "16118998-4705-5813-86dd-0292a2439d90",
+                "short": "e10a2"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "2bdcb560-cace-4788-9117-3c4c17bf7ac6",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "b827efa6-3fcc-4f2e-b8db-9568e8274acb",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f53bdc7a-7814-46ea-acc4-312836f68c74",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 12,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 12
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "2bdcb560-cace-4788-9117-3c4c17bf7ac6",
+                "agent": {
+                    "id": "df1cb487-4902-002e-5c17-d28e83e78588",
+                    "name": "Waylay"
+                },
+                "stats": {
+                    "score": 6887,
+                    "kills": 24,
+                    "deaths": 22,
+                    "assists": 6,
+                    "headshots": 10,
+                    "bodyshots": 75,
+                    "legshots": 4,
+                    "damage": {
+                        "dealt": 3963,
+                        "received": 4042
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 11,
+                    "ability1": 10,
+                    "ability2": 18,
+                    "ultimate": 5
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "37a36996-41f3-6e26-c00b-46bf7c037482"
+                },
+                "account_level": 221,
+                "session_playtime_in_ms": 4620000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 72850,
+                        "average": 2914.0
+                    },
+                    "loadout_value": {
+                        "overall": 84250,
+                        "average": 3370.0
+                    }
+                }
+            }
+        }
+    },
+    "e31b56ab-a39e-4717-926f-c5ffee3c9cd1": {
+        "match": {
+            "match_id": "e31b56ab-a39e-4717-926f-c5ffee3c9cd1",
+            "map": {
+                "id": "e2ad5c54-4114-a870-9641-8ea21279579a",
+                "name": "Icebox"
+            },
+            "game_version": "release-10.04-shipping-7-3283852",
+            "game_length_in_ms": 2251268,
+            "started_at": "2025-03-10T10:41:11.739Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "16118998-4705-5813-86dd-0292a2439d90",
+                "short": "e10a2"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "5c0ceab1-8331-4278-9e61-66a2d4a1b5c5",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "6159fc7b-d15c-464f-ab3e-b2650960ab74",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "2bdcb560-cace-4788-9117-3c4c17bf7ac6",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 11,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 13,
+                    "lost": 11
+                },
+                "won": true,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "2bdcb560-cace-4788-9117-3c4c17bf7ac6",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 4812,
+                    "kills": 16,
+                    "deaths": 18,
+                    "assists": 3,
+                    "headshots": 6,
+                    "bodyshots": 60,
+                    "legshots": 6,
+                    "damage": {
+                        "dealt": 2782,
+                        "received": 3356
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 11,
+                    "ability1": 11,
+                    "ability2": 19,
+                    "ultimate": 3
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "37a36996-41f3-6e26-c00b-46bf7c037482"
+                },
+                "account_level": 221,
+                "session_playtime_in_ms": 2160000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 65650,
+                        "average": 2735.4167
+                    },
+                    "loadout_value": {
+                        "overall": 89800,
+                        "average": 3741.6667
+                    }
+                }
+            }
+        }
+    },
+    "7448e679-f358-40af-bbfc-f53586c6f2a3": {
+        "match": {
+            "match_id": "7448e679-f358-40af-bbfc-f53586c6f2a3",
+            "map": {
+                "id": "d960549e-485c-e861-8d71-aa9d1aed12a2",
+                "name": "Split"
+            },
+            "game_version": "release-10.04-shipping-7-3283852",
+            "game_length_in_ms": 535541,
+            "started_at": "2025-03-10T10:07:44.173Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "16118998-4705-5813-86dd-0292a2439d90",
+                "short": "e10a2"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "afe1ae0f-0af5-48e4-b787-3ba1767778d9",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "946814dd-817c-4294-bd86-9f306f358460",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "3d802b3f-6db0-44ad-9a7a-9e807ae7a7cf",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "99138218-cb00-49eb-8227-9aaec7d75b76",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "6c1ff645-5394-4611-943f-93a5f956a768",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 4,
+                    "lost": 1
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 1,
+                    "lost": 4
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Red",
+                "platform": "pc",
+                "party_id": "99138218-cb00-49eb-8227-9aaec7d75b76",
+                "agent": {
+                    "id": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
+                    "name": "Sova"
+                },
+                "stats": {
+                    "score": 595,
+                    "kills": 2,
+                    "deaths": 2,
+                    "assists": 4,
+                    "headshots": 0,
+                    "bodyshots": 9,
+                    "legshots": 3,
+                    "damage": {
+                        "dealt": 356,
+                        "received": 604
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 5,
+                    "ability1": 6,
+                    "ability2": 6,
+                    "ultimate": 0
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "37a36996-41f3-6e26-c00b-46bf7c037482"
+                },
+                "account_level": 220,
+                "session_playtime_in_ms": 180000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 11100,
+                        "average": 2220.0
+                    },
+                    "loadout_value": {
+                        "overall": 17400,
+                        "average": 3480.0
+                    }
+                }
+            }
+        }
+    },
+    "f9da5f21-9f98-42f6-94c4-180d490eb5e1": {
+        "match": {
+            "match_id": "f9da5f21-9f98-42f6-94c4-180d490eb5e1",
+            "map": {
+                "id": "7eaecc1b-4337-bbf6-6ab9-04b8f06b3319",
+                "name": "Ascent"
+            },
+            "game_version": "release-10.04-shipping-7-3283852",
+            "game_length_in_ms": 2448298,
+            "started_at": "2025-03-09T10:49:03.186Z",
+            "is_completed": true,
+            "queue": {
+                "id": "unrated",
+                "name": "Unrated",
+                "mode_type": "Standard"
+            },
+            "season": {
+                "id": "16118998-4705-5813-86dd-0292a2439d90",
+                "short": "e10a2"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "12ae30d2-889a-405a-9869-fe7896ac83c2",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "625cf30b-611c-4f3d-86ca-2749d504d9c0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "f26c1298-357c-4d4f-8dab-65332ad3f6b1",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ea74e606-a68d-435d-bb12-de9b4cd1ba8d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "b6e32767-08a9-47a0-a1ba-f855f781745c",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "Red",
+                "rounds": {
+                    "won": 13,
+                    "lost": 9
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "Blue",
+                "rounds": {
+                    "won": 9,
+                    "lost": 13
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "Blue",
+                "platform": "pc",
+                "party_id": "ea74e606-a68d-435d-bb12-de9b4cd1ba8d",
+                "agent": {
+                    "id": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+                    "name": "Yoru"
+                },
+                "stats": {
+                    "score": 6054,
+                    "kills": 22,
+                    "deaths": 17,
+                    "assists": 2,
+                    "headshots": 11,
+                    "bodyshots": 74,
+                    "legshots": 2,
+                    "damage": {
+                        "dealt": 3607,
+                        "received": 3431
+                    }
+                },
+                "ability_casts": {
+                    "grenade": 14,
+                    "ability1": 14,
+                    "ability2": 26,
+                    "ultimate": 5
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "37a36996-41f3-6e26-c00b-46bf7c037482"
+                },
+                "account_level": 220,
+                "session_playtime_in_ms": 1680000,
+                "behavior": {
+                    "afk_rounds": 0.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 56200,
+                        "average": 2554.5454
+                    },
+                    "loadout_value": {
+                        "overall": 76750,
+                        "average": 3488.6365
+                    }
+                }
+            }
+        }
+    },
+    "54d4f3c5-5840-45d0-a45e-870deb952d64": {
+        "match": {
+            "match_id": "54d4f3c5-5840-45d0-a45e-870deb952d64",
+            "map": {
+                "id": "e2ad5c54-4114-a870-9641-8ea21279579a",
+                "name": "Icebox"
+            },
+            "game_version": "release-10.04-shipping-7-3283852",
+            "game_length_in_ms": 416076,
+            "started_at": "2025-03-09T10:27:52.714Z",
+            "is_completed": true,
+            "queue": {
+                "id": "deathmatch",
+                "name": "Deathmatch",
+                "mode_type": "Deathmatch"
+            },
+            "season": {
+                "id": "16118998-4705-5813-86dd-0292a2439d90",
+                "short": "e10a2"
+            },
+            "platform": "pc",
+            "premier": null,
+            "party_rr_penaltys": [
+                {
+                    "party_id": "19798613-ac10-4796-902d-8f68a2bd6da0",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "496e9203-0688-4c23-a07a-d3d425609824",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "67a9330e-d160-470a-b061-be8dcff7ea05",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "ea74e606-a68d-435d-bb12-de9b4cd1ba8d",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "83ecb5df-1929-455d-9083-5d0fb36ae18a",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "26ca4048-52c8-4ce4-8c3d-a73d918d0108",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "a2232210-e6d3-4e10-a8ef-2007015e6d89",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "5ff6193b-a0ea-4de3-9192-f125b6da957f",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "23c51fc8-d980-4b9f-ba85-c68649f6aa77",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "2d14bf76-7f71-4e68-884b-88479f5422b4",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "e14547db-1e0c-4564-91ee-e442144076da",
+                    "penalty": 0.0
+                },
+                {
+                    "party_id": "34d4d2ad-ca4a-4cdf-ae61-40a98b2dc6ec",
+                    "penalty": 0.0
+                }
+            ],
+            "region": "ap",
+            "cluster": "Sydney"
+        },
+        "teams": [
+            {
+                "team_id": "bb7a403b-7885-5962-86e1-259cd4178f81",
+                "rounds": {
+                    "won": 20,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "51a97c9b-092f-5378-a28f-f4580b63a7dd",
+                "rounds": {
+                    "won": 24,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "cd22543d-391b-5bbf-ae2a-7b7d7fc5e650",
+                "rounds": {
+                    "won": 15,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "90b8a39f-5f5b-5ee2-9504-20dab201161e",
+                "rounds": {
+                    "won": 35,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "75530e1e-ee3f-5235-ae56-041b64e2d01b",
+                "rounds": {
+                    "won": 12,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "38916193-18e3-5135-9ca4-4cfe42d13f9e",
+                "rounds": {
+                    "won": 29,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "9d30f3b0-d52a-5a45-9cef-a1e8a74d4429",
+                "rounds": {
+                    "won": 31,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "832ac731-e487-5aed-8299-07b5b490f4a1",
+                "rounds": {
+                    "won": 40,
+                    "lost": 0
+                },
+                "won": true,
+                "premier_roster": null
+            },
+            {
+                "team_id": "d4147eed-fb4e-55fe-816c-290fcc77af6d",
+                "rounds": {
+                    "won": 6,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "b7ee5ab9-4da9-5b5e-9f51-51aa5665a51d",
+                "rounds": {
+                    "won": 17,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "c7efbc66-0dd1-5460-849f-d598fd3f7751",
+                "rounds": {
+                    "won": 35,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            },
+            {
+                "team_id": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "rounds": {
+                    "won": 1,
+                    "lost": 0
+                },
+                "won": false,
+                "premier_roster": null
+            }
+        ],
+        "player": {
+            "ewokland#007": {
+                "puuid": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "name": "ewokland",
+                "tag": "007",
+                "team_id": "6296bdea-ae54-5506-97d9-66c3f5b2f8a0",
+                "platform": "pc",
+                "party_id": "ea74e606-a68d-435d-bb12-de9b4cd1ba8d",
+                "agent": {
+                    "id": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+                    "name": "Jett"
+                },
+                "stats": {
+                    "score": 380,
+                    "kills": 1,
+                    "deaths": 5,
+                    "assists": 1,
+                    "headshots": 0,
+                    "bodyshots": 0,
+                    "legshots": 0,
+                    "damage": {
+                        "dealt": 0,
+                        "received": 0
+                    }
+                },
+                "ability_casts": {
+                    "grenade": null,
+                    "ability1": null,
+                    "ability2": null,
+                    "ultimate": null
+                },
+                "tier": {
+                    "id": 0,
+                    "name": "Unrated"
+                },
+                "customization": {
+                    "card": "24335ffe-4eea-7e77-0e17-959a1d132d31",
+                    "title": "129190d4-42fa-4e79-75e3-ffb5679d1dc2",
+                    "preferred_level_border": "37a36996-41f3-6e26-c00b-46bf7c037482"
+                },
+                "account_level": 220,
+                "session_playtime_in_ms": 420000,
+                "behavior": {
+                    "afk_rounds": 1.0,
+                    "friendly_fire": {
+                        "incoming": 0.0,
+                        "outgoing": 0.0
+                    },
+                    "rounds_in_spawn": 0.0
+                },
+                "economy": {
+                    "spent": {
+                        "overall": 0,
+                        "average": 0.0
+                    },
+                    "loadout_value": {
+                        "overall": 0,
+                        "average": 0.0
+                    }
+                }
+            }
+        }
+    },
     "fd99e652-fa93-4e7f-bfb4-de71f97acb7b": {
         "match": {
             "match_id": "fd99e652-fa93-4e7f-bfb4-de71f97acb7b",
